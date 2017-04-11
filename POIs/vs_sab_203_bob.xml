@@ -1,0 +1,87 @@
+<OverlayData>
+<MarkerCategory name="vs" DisplayName="v's">
+  <MarkerCategory name="vs_sab" DisplayName="SAB">
+    <MarkerCategory name="vs_203" DisplayName="203 aka w2z3">
+      <MarkerCategory name="vs_bauble_203" DisplayName="Bachelor of Baubles 203" alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" iconFile="Data\vs\Bauble.png"/>
+      <MarkerCategory name="vs_key_203" DisplayName="Bachelor of Baubles 203 key" alpha=".9" iconSize="0.46" heightOffset="0" behavior="0" fadeNear="1200" fadeFar="1700" iconFile="Data\vs\sab_key.png"/>
+  	  </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+
+    <POI MapID="934" xpos="-81.38" ypos="40.84" zpos="134.87"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +01:   (blue) around first corner by trees -->
+    <POI MapID="934" xpos="-71.31" ypos="59.27" zpos="118.86"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +02:   (yellow) trib mode path on the wall -->
+    <POI MapID="934" xpos="-92.25" ypos="51.46" zpos="92.80"    type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +03:   above first hillbillies -->
+    <POI MapID="934" xpos="-65.22" ypos="46.71" zpos="105.12"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +04:   en route to racoon kingpin -->
+    <POI MapID="934" xpos="-87.83" ypos="85.49" zpos="91.27"    type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +05:   after 2nd checkpoint (backtrack high above hillbillies) -->
+    <POI MapID="934" xpos="21.88" ypos="84.10" zpos="101.59"    type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +06-07 1st chest -->
+    <POI MapID="934" xpos="22.47" ypos="84.10" zpos="100.88"    type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-3.58" ypos="79.15" zpos="95.93"     type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +08:   evil spot above banana -->
+    <POI MapID="934" xpos="7.85" ypos="68.71" zpos="95.03"      type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +09:   below 1st chest -->
+    <POI MapID="934" xpos="-15.36" ypos="70.12" zpos="151.48"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +10-13:   in the 'path of wind' -->
+    <POI MapID="934" xpos="-28.61" ypos="68.82" zpos="151.48"   type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-44.28" ypos="68.74" zpos="151.48"   type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-59.88" ypos="68.82" zpos="151.68"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!--          end in the 'path of wind' -->
+    <POI MapID="934" xpos="-28.39" ypos="60.90" zpos="146.28"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +14:   below first bauble in 'path of wind' -->
+    <POI MapID="934" xpos="-7.01" ypos="38.37" zpos="136.24"    type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +15:   (yellow) below #14 to the left (thru punch-wall) -->
+    <POI MapID="934" xpos="-55.17" ypos="82.24" zpos="65.21"    type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +16:   dont miss it, after first portal -->
+    <POI MapID="934" xpos="-45.40" ypos="87.14" zpos="60.30"    type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +17:   inside inner-climb/jumping area (blue) -->
+    <POI MapID="934" xpos="-38.50" ypos="120.59" zpos="62.29"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +18:                                  (green) -->
+    <POI MapID="934" xpos="-49.10" ypos="143.54" zpos="55.74"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +19:   end                           (yellow) -->
+    <POI MapID="934" xpos="-55.56" ypos="149.88" zpos="82.01"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +20:   (blue) right side of descending jump -->
+    <POI MapID="934" xpos="-63.84" ypos="138.60" zpos="88.37"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +21:   (blue) hiding around a corner (after first goat encounter) -->
+    <POI MapID="934" xpos="-58.72" ypos="167.00" zpos="101.82"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +22:   (blue) shortcut punch-wall near checkpoint -->
+    <POI MapID="934" xpos="-37.83" ypos="180.84" zpos="55.95"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +23:   (yellow) between two bananas -->
+    <POI MapID="934" xpos="-10.38" ypos="156.66" zpos="99.12"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +24:   2nd chest (punch wall to checkpoint) -->
+    <POI MapID="934" xpos="-13.47" ypos="180.64" zpos="101.23"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +25:   (blue) bear above checkpoint shortcut-punch-wall -->
+    <POI MapID="934" xpos="-15.25" ypos="99.00" zpos="118.54"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +26-28 (yellow) inside flute 332331 -->
+    <POI MapID="934" xpos="-15.25" ypos="99.00" zpos="121.04"   type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-15.25" ypos="99.00" zpos="123.75"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- end -->
+    <POI MapID="934" xpos="-61.47" ypos="95.58" zpos="132.07"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +29: (purple) down a ledge from 26-28 -->
+    <POI MapID="934" xpos="-56.46" ypos="125.82" zpos="140.21"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +30: (purple) above 29 but drop down from shortcut-punch-wall -->
+
+
+    <POI MapID="934" xpos="-52.65" ypos="138.86" zpos="108.74"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +31:  (yellow) top of hole -->
+    <POI MapID="934" xpos="-30.26" ypos="83.08" zpos="83.29"    type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +32:  (yellow) bottom of hole -->
+    <!-- get all previous baubles before continuing + BRING 2 KEYs-->
+    <POI MapID="934" xpos="-31.24" ypos="221.41" zpos="232.03"   type="vs.vs_sab.vs_203.vs_key_203" />  <!-- bring 2 keys per player BEFORE checkpoint -->
+    <POI MapID="934" xpos="-32.39" ypos="221.40" zpos="233.29"   type="vs.vs_sab.vs_203.vs_key_203" />
+
+    <POI MapID="934" xpos="-7.34" ypos="228.93" zpos="249.45"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +33-38:   small hidden room -->
+    <POI MapID="934" xpos="-9.97" ypos="228.93" zpos="249.29"   type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-9.86" ypos="228.93" zpos="245.09"   type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-7.41" ypos="228.93" zpos="245.03"   type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-7.02" ypos="228.93" zpos="240.54"   type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-9.86" ypos="228.93" zpos="240.54"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!--          end small hidden room -->
+    <POI MapID="934" xpos="13.22" ypos="234.81" zpos="275.63"   type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- +39:   above the flute/big-icecicle death room -->
+    <POI MapID="934" xpos="-56.85" ypos="227.16" zpos="318.42"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 40:   wind+ice death room -->
+    <POI MapID="934" xpos="-31.48" ypos="227.16" zpos="366.27"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 41:   after wind+ice death room (blue) -->
+    <POI MapID="934" xpos="-91.73" ypos="258.26" zpos="380.01"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 42:   adjacent wall from chest -->
+    <POI MapID="934" xpos="-91.37" ypos="258.26" zpos="363.90"  type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 43:   chest -->
+    <POI MapID="934" xpos="-130.31" ypos="216.63" zpos="378.43" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 44-48:   ice ramp -->
+    <POI MapID="934" xpos="-167.40" ypos="239.81" zpos="380.81" type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-172.41" ypos="243.93" zpos="359.52" type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-215.01" ypos="274.04" zpos="359.35" type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-222.86" ypos="281.51" zpos="379.89" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 48:   end -->
+    <POI MapID="934" xpos="-384.26" ypos="346.11" zpos="350.91" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 49:   icy cliff + goat jumps -->
+    <POI MapID="934" xpos="-391.39" ypos="358.28" zpos="372.10" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 50:   icy cliff cloud puff -->
+    <POI MapID="934" xpos="-394.85" ypos="358.89" zpos="363.28" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 51:   icy cliff cloud puff -->
+    <POI MapID="934" xpos="-415.22" ypos="361.07" zpos="468.54" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 52:   before moto's finger 332331 -->
+    <POI MapID="934" xpos="-448.25" ypos="365.55" zpos="344.45" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 53:  guarded by polar bears / next to outside of push-wall -->
+    <POI MapID="934" xpos="-304.75" ypos="358.15" zpos="299.33" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 54-57:   push 3 blocks -->
+    <POI MapID="934" xpos="-342.87" ypos="358.15" zpos="263.15" type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-311.53" ypos="358.36" zpos="275.19" type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-320.57" ypos="353.48" zpos="286.48" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 57:   end -->
+    <POI MapID="934" xpos="-370.34" ypos="352.88" zpos="259.69" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 58: 4th chest (purple) -->
+    <POI MapID="934" xpos="-307.45" ypos="366.29" zpos="290.09" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 59: (yellow) path above 4th chest -->
+    <POI MapID="934" xpos="-329.14" ypos="355.02" zpos="189.37" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- 60-63: (blue) corners around yeti -->
+    <POI MapID="934" xpos="-323.26" ypos="355.02" zpos="132.96" type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-403.24" ypos="355.02" zpos="124.09" type="vs.vs_sab.vs_203.vs_bauble_203" />
+    <POI MapID="934" xpos="-395.21" ypos="355.02" zpos="191.63" type="vs.vs_sab.vs_203.vs_bauble_203" />  <!-- end  -->
+    <!-- x:   x -->
+  <!--
+    <POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_203.vs_bauble_203" />
+
+  -->
+  </POIs>
+</OverlayData>
