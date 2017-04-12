@@ -5,7 +5,7 @@
 >* [7-Zip](7-Zip.org) archived [Tekkits SAB Trib-paths](http://tekkitsworkshop.net/download/SAB_Tribulation_paths.7z)
 * added extra icons to enhance the tekkit paths
 * bauble guide ordering follows dulfy:
-> * [dulfy bachelor of baubles 202](https://dulfy.net/2013/09/07/gw2-bachelor-of-baubles-world-2-achievement-guide)
+> * [dulfy bachelor of baubles 202](http://dulfy.net/2013/09/07/gw2-bachelor-of-baubles-world-2-achievement-guide)
 > * [dulfy master of baubles 203](http://dulfy.net/2013/09/17/gw2-master-of-baubles-world-2-achievement-guide)
 
 #### tekkitsworkshop details
