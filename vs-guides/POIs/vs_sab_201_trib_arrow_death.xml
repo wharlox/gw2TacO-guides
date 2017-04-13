@@ -1,43 +1,43 @@
 <OverlayData>
 <MarkerCategory name="vs" DisplayName="v's">
   <MarkerCategory name="vs_sab" DisplayName="SAB">
-    <MarkerCategory name="vs_201" DisplayName="201 aka w2z1">
-      <MarkerCategory name="vs_201_trib_death_arrow_ahead" DisplayName="trib arrows that kill warning" alpha=".82" iconSize="0.46" heightOffset="0.7" behavior="0" fadeNear="800" fadeFar="900" iconFile="Data\vs\death_arrow_ahead.png"/>
-      <MarkerCategory name="vs_201_trib_death_arrow" DisplayName="trib arrows that kill" alpha=".82" iconSize="1" heightOffset="0" behavior="0" fadeNear="1500" fadeFar="1700" iconFile="Data\vs\death_arrow.png"/>
-      <MarkerCategory name="vs_201_trib_bouncy_rock_dot" DisplayName="trib bouncy rock Path Dot" iconSize="0.2" heightOffset="0.0" behavior="0" fadeNear="1000" fadeFar="1100" iconFile="Data\vs\vs_bouncy_rock_dot.png"/>
+    <MarkerCategory name="vs_trib_deaths_201" DisplayName="Trib Death Marks 201">
+      <MarkerCategory name="vs_201_trib_death_arrow_ahead" DisplayName="201 death finger warning" alpha=".82" iconSize="0.46" heightOffset="0.7" behavior="0" fadeNear="800" fadeFar="900" iconFile="Data\vs\death_arrow_ahead.png"/>
+      <MarkerCategory name="vs_201_trib_death_arrow" DisplayName="201 death fingers" alpha=".82" iconSize="1" heightOffset="0" behavior="0" fadeNear="1500" fadeFar="1700" iconFile="Data\vs\death_arrow.png"/>
+      <MarkerCategory name="vs_201_trib_bouncy_rock_dot" DisplayName="201 navigate bouncy rocks" iconSize="0.2" heightOffset="0.0" behavior="0" fadeNear="1000" fadeFar="1100" iconFile="Data\vs\vs_bouncy_rock_dot.png"/>
   	  </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
 
-    <POI MapID="934" xpos="-620.93" ypos="179.97" zpos="-409.73" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="-612.48" ypos="184.82" zpos="-409.90" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow" />
+    <POI MapID="934" xpos="-620.93" ypos="179.97" zpos="-409.73" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="-612.48" ypos="184.82" zpos="-409.90" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-610.32" ypos="180.44" zpos="-391.54" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="-594.90" ypos="184.00" zpos="-389.75" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow" />
+    <POI MapID="934" xpos="-610.32" ypos="180.44" zpos="-391.54" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="-594.90" ypos="184.00" zpos="-389.75" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-599.16" ypos="181.32" zpos="-393.99" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
-    <POI MapID="934" xpos="-596.30" ypos="182.59" zpos="-391.07" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
-    <POI MapID="934" xpos="-598.28" ypos="184.52" zpos="-395.97" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
-    <POI MapID="934" xpos="-584.90" ypos="185.49" zpos="-388.12" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
-    <POI MapID="934" xpos="-580.96" ypos="186.52" zpos="-386.23" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
-    <POI MapID="934" xpos="-579.49" ypos="188.44" zpos="-384.90" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-599.16" ypos="181.32" zpos="-393.99" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-596.30" ypos="182.59" zpos="-391.07" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-598.28" ypos="184.52" zpos="-395.97" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-584.90" ypos="185.49" zpos="-388.12" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-580.96" ypos="186.52" zpos="-386.23" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-579.49" ypos="188.44" zpos="-384.90" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
 
-    <POI MapID="934" xpos="-600.53" ypos="194.63" zpos="-409.67" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
-    <POI MapID="934" xpos="-601.23" ypos="196.67" zpos="-410.20" type="vs.vs_sab.vs_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-600.53" ypos="194.63" zpos="-409.67" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
+    <POI MapID="934" xpos="-601.23" ypos="196.67" zpos="-410.20" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_bouncy_rock_dot" />
 
-    <POI MapID="934" xpos="-239.24" ypos="202.49" zpos="-414.68" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="-232.69" ypos="208.26" zpos="-420.11" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow" />
+    <POI MapID="934" xpos="-239.24" ypos="202.49" zpos="-414.68" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="-232.69" ypos="208.26" zpos="-420.11" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-229.95" ypos="202.49" zpos="-424.17" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow_ahead" /> <!-- corner ambush frog -->
-    <POI MapID="934" xpos="-211.32" ypos="207.54" zpos="-423.92" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow" />
+    <POI MapID="934" xpos="-229.95" ypos="202.49" zpos="-424.17" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow_ahead" /> <!-- corner ambush frog -->
+    <POI MapID="934" xpos="-211.32" ypos="207.54" zpos="-423.92" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-142.06" ypos="210.83" zpos="-355.95" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="-152.94" ypos="209.74" zpos="-366.52" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow" />
+    <POI MapID="934" xpos="-142.06" ypos="210.83" zpos="-355.95" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="-152.94" ypos="209.74" zpos="-366.52" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow" />
   <!--   .76
 
-<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow_ahead" />
-<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_201.vs_201_trib_death_arrow" />
+<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow_ahead" />
+<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_trib_deaths_201.vs_201_trib_death_arrow" />
 
   -->
   </POIs>

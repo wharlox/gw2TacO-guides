@@ -1,0 +1,57 @@
+<OverlayData>
+<MarkerCategory name="vs" DisplayName="v's">
+  <MarkerCategory name="vs_sab" DisplayName="SAB">
+    <MarkerCategory name="vs_baubles" DisplayName="bauble marks">
+      <MarkerCategory name="vs_bauble_201" DisplayName="201 Associate of Baubles (incomplete)" alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" iconFile="Data\vs\Bauble.png"/>
+  	  </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+
+    <POI MapID="934" xpos="-556.75" ypos="201.07" zpos="-390.73" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- inside cliffside waterfall -->
+    <POI MapID="934" xpos="-550.38" ypos="216.39" zpos="-408.43" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- above cliffside waterfall in rapids -->
+    <POI MapID="934" xpos="-585.08" ypos="219.24" zpos="-398.71" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- near first furnature coin on bridge -->
+
+    <POI MapID="934" xpos="-636.56" ypos="220.00" zpos="-465.29" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- before checkpoint of long assassin bridge -->
+
+    <POI MapID="934" xpos="-618.21" ypos="247.07" zpos="-524.48" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- assassin bridge -->
+    <POI MapID="934" xpos="-618.21" ypos="247.07" zpos="-546.47" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- assassin bridge -->
+    <POI MapID="934" xpos="-618.21" ypos="247.07" zpos="-601.50" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- assassin bridge -->
+    <POI MapID="934" xpos="-618.21" ypos="247.07" zpos="-628.08" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- assassin bridge -->
+
+    <POI MapID="934" xpos="-296.24" ypos="204.87" zpos="-422.14" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- after rapids raft on flower-projection island -->
+    <POI MapID="934" xpos="-256.70" ypos="188.06" zpos="-431.52" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- inside cave below flower-projection island -->
+    <POI MapID="934" xpos="-244.48" ypos="194.27" zpos="-459.95" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- below first chest -->
+    <POI MapID="934" xpos="-249.92" ypos="213.77" zpos="-453.89" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- next to first chest -->
+    <POI MapID="934" xpos="-265.50" ypos="212.05" zpos="-455.76" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- first chest -->
+    <POI MapID="934" xpos="-239.96" ypos="215.52" zpos="-406.55" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- after first chest on ledge -->
+
+    <POI MapID="934" xpos="-237.19" ypos="227.28" zpos="-337.32" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- before 2nd furnature guys -->
+
+    <POI MapID="934" xpos="-252.96" ypos="208.05" zpos="-222.85" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze -->
+    <POI MapID="934" xpos="-238.15" ypos="208.05" zpos="-211.50" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze -->
+    <POI MapID="934" xpos="-219.13" ypos="208.05" zpos="-182.67" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze -->
+
+    <POI MapID="934" xpos="-242.51" ypos="172.93" zpos="-179.64" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze - bear hole -->
+    <POI MapID="934" xpos="-232.47" ypos="172.93" zpos="-189.47" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze - bear hole -->
+    <POI MapID="934" xpos="-220.22" ypos="172.93" zpos="-192.56" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze - bear hole -->
+    <POI MapID="934" xpos="-208.52" ypos="172.93" zpos="-204.04" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze - bear hole -->
+
+    <POI MapID="934" xpos="-251.42" ypos="207.72" zpos="-264.48" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- hillbilly tunnel entrance -->
+    <POI MapID="934" xpos="-155.74" ypos="197.17" zpos="-301.53" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- end hillbilly tunnel -->
+
+    <POI MapID="934" xpos="-157.22" ypos="195.47" zpos="-217.14" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- off the alligator waterfall -->
+    <POI MapID="934" xpos="-227.86" ypos="234.50" zpos="-260.47" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- in front of house overlooking alligator waterfall -->
+    <POI MapID="934" xpos="-185.06" ypos="186.62" zpos="-210.88" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon -->
+    <POI MapID="934" xpos="-223.32" ypos="185.24" zpos="-257.54" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon -->
+    <POI MapID="934" xpos="-237.46" ypos="184.55" zpos="-237.00" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon -->
+
+    <POI MapID="934" xpos="-157.36" ypos="210.99" zpos="-325.77" type="vs.vs_sab.vs_baubles.vs_bauble_201" />
+
+    <POI MapID="934" xpos="-108.70" ypos="227.92" zpos="-314.49" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- flower above final checkpoint -->
+    <!--
+<POI MapID="934" xpos="-0" ypos="0" zpos="-0" type="vs.vs_sab.vs_baubles.vs_bauble_201" />
+
+    -->
+    </POIs>
+  </OverlayData>
