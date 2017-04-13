@@ -1,89 +1,90 @@
 <OverlayData>
 <MarkerCategory name="vs" DisplayName="v's">
   <MarkerCategory name="vs_sab" DisplayName="SAB">
-    <MarkerCategory name="vs_203" DisplayName="203 aka w2z3">
-      <MarkerCategory name="vs_203_trib_death_arrow_ahead" DisplayName="trib arrows that kill warning" alpha=".82" iconSize="0.46" heightOffset="0.7" behavior="0" fadeNear="800" fadeFar="900" iconFile="Data\vs\death_arrow_ahead.png"/>
-      <MarkerCategory name="vs_203_trib_death_arrow" DisplayName="trib arrows that kill" alpha=".82" iconSize="1" heightOffset="0" behavior="0" fadeNear="1500" fadeFar="1700" iconFile="Data\vs\death_arrow.png"/>
-      <MarkerCategory name="vs_203_trib_bouncy_rock_dot" DisplayName="trib bouncy rock Path Dot" iconSize="0.2" heightOffset="0.0" behavior="0" fadeNear="1200" fadeFar="1700" iconFile="Data\vs\vs_bouncy_rock_dot.png"/>
+    <MarkerCategory name="vs_trib_deaths_203" DisplayName="Trib Death Marks 203">
+      <MarkerCategory name="vs_203_trib_death_arrow_ahead" DisplayName="203 death finger warning" alpha=".82" iconSize="0.46" heightOffset="0.7" behavior="0" fadeNear="800" fadeFar="900" iconFile="Data\vs\death_arrow_ahead.png"/>
+      <MarkerCategory name="vs_203_trib_death_arrow" DisplayName="203 death fingers" alpha=".82" iconSize="1" heightOffset="0" behavior="0" fadeNear="1500" fadeFar="1700" iconFile="Data\vs\death_arrow.png"/>
+      <MarkerCategory name="vs_203_trib_bouncy_rock_dot" DisplayName="203 avoid bouncy goat switches" iconSize="0.2" heightOffset="0.0" behavior="0" fadeNear="1200" fadeFar="1700" iconFile="Data\vs\vs_bouncy_rock_dot.png"/>
   	  </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
-    <POI MapID="934" xpos="-78.31" ypos="64.85" zpos="103.72" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- ramp after yellow bauble -->
-    <POI MapID="934" xpos="-79.80" ypos="68.70" zpos="94.17"  type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
-    <POI MapID="934" xpos="-78.60" ypos="60.59" zpos="108.54" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-78.31" ypos="64.85" zpos="103.72" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- ramp after yellow bauble -->
+    <POI MapID="934" xpos="-79.80" ypos="68.70" zpos="94.17"  type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-78.60" ypos="60.59" zpos="108.54" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-69.96" ypos="66.52" zpos="83.46" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- at 1st checkpoint -->
-    <POI MapID="934" xpos="-58.53" ypos="75.50" zpos="70.98" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-69.96" ypos="66.52" zpos="83.46" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- at 1st checkpoint -->
+    <POI MapID="934" xpos="-58.53" ypos="75.50" zpos="70.98" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-59.69" ypos="77.59" zpos="64.59" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- above 1st checkpoint (bear at top) -->
-    <POI MapID="934" xpos="-53.00" ypos="73.65" zpos="46.90" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
-    <POI MapID="934" xpos="-52.38" ypos="84.00" zpos="51.50" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-59.69" ypos="77.59" zpos="64.59" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- above 1st checkpoint (bear at top) -->
+    <POI MapID="934" xpos="-53.00" ypos="73.65" zpos="46.90" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-52.38" ypos="84.00" zpos="51.50" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="06.49" ypos="81.56" zpos="58.67" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- before checkpoint at first merchant -->
-    <POI MapID="934" xpos="9e.00" ypos="85.00" zpos="60.68" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
-    <POI MapID="934" xpos="16.90" ypos="85.00" zpos="62.00" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
-    <POI MapID="934" xpos="21.85" ypos="85.00" zpos="61.0" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="06.49" ypos="81.56" zpos="58.67" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- before checkpoint at first merchant -->
+    <POI MapID="934" xpos="9e.00" ypos="85.00" zpos="60.68" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="16.90" ypos="85.00" zpos="62.00" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="21.85" ypos="85.00" zpos="61.0" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="11.98" ypos="84.00" zpos="71.94" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- before 1st chest -->
-    <POI MapID="934" xpos="5.16" ypos="84.56" zpos="78.91" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="11.98" ypos="84.00" zpos="71.94" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- before 1st chest -->
+    <POI MapID="934" xpos="5.16" ypos="84.56" zpos="78.91" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="7.65" ypos="85.40" zpos="99.85" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- after 1st chest -->
-    <POI MapID="934" xpos="7.65" ypos="85.40" zpos="113.40" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="7.65" ypos="85.40" zpos="99.85" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- after 1st chest -->
+    <POI MapID="934" xpos="7.65" ypos="85.40" zpos="113.40" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="0.95" ypos="72.00" zpos="116.65" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" /> <!-- below 1st chest -->
 
-    <POI MapID="934" xpos="-78.15" ypos="74.84" zpos="137.85" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- after 'path of wind' -->
-    <POI MapID="934" xpos="-78.41" ypos="76.36" zpos="129.78" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-78.15" ypos="74.84" zpos="137.85" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- after 'path of wind' -->
+    <POI MapID="934" xpos="-78.41" ypos="76.36" zpos="129.78" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-43.72" ypos="83.51" zpos="48.07" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area -->
-    <POI MapID="934" xpos="-38.46" ypos="88.45" zpos="57.60" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-43.72" ypos="83.51" zpos="48.07" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area -->
+    <POI MapID="934" xpos="-38.46" ypos="88.45" zpos="57.60" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-49.50" ypos="93.32" zpos="60.04" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area -->
-    <POI MapID="934" xpos="-50.00" ypos="102.60" zpos="61.73" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-49.50" ypos="93.32" zpos="60.04" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area -->
+    <POI MapID="934" xpos="-50.00" ypos="102.60" zpos="61.73" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-46.59" ypos="101.76" zpos="69.41" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area -->
-    <POI MapID="934" xpos="-41.85" ypos="113.09" zpos="71.00" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-46.59" ypos="101.76" zpos="69.41" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area -->
+    <POI MapID="934" xpos="-41.85" ypos="113.09" zpos="71.00" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-26.73" ypos="131.66" zpos="59.58" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area (past green bauble) -->
-    <POI MapID="934" xpos="-25.51" ypos="146.00" zpos="61.29" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-26.73" ypos="131.66" zpos="59.58" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area (past green bauble) -->
+    <POI MapID="934" xpos="-25.51" ypos="146.00" zpos="61.29" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-33.71" ypos="133.19" zpos="70.22" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area (over green bauble) -->
-    <POI MapID="934" xpos="-42.61" ypos="139.35" zpos="63.64" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-33.71" ypos="133.19" zpos="70.22" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- inside inner-climb/jumping area (over green bauble) -->
+    <POI MapID="934" xpos="-42.61" ypos="139.35" zpos="63.64" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-65.74" ypos="125.48" zpos="94.76" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- after 'descending jump' outside -->
-    <POI MapID="934" xpos="-69.51" ypos="129.00" zpos="111.40" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-65.74" ypos="125.48" zpos="94.76" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- after 'descending jump' outside -->
+    <POI MapID="934" xpos="-69.51" ypos="129.00" zpos="111.40" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-96.77" ypos="128.00" zpos="81.51" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- first goat encoutner -->
-    <POI MapID="934" xpos="-106.0" ypos="130.00" zpos="72.82" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-96.77" ypos="128.00" zpos="81.51" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- first goat encoutner -->
+    <POI MapID="934" xpos="-106.0" ypos="130.00" zpos="72.82" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-69.70" ypos="138.86" zpos="101.72" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- after first goat encoutner -->
-    <POI MapID="934" xpos="-73.64" ypos="142.50" zpos="112.20" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-69.70" ypos="138.86" zpos="101.72" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- after first goat encoutner -->
+    <POI MapID="934" xpos="-73.64" ypos="142.50" zpos="112.20" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-59.35" ypos="156.44" zpos="92.64" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- punch-wall shortcut near checkpoint after teleport -->
-    <POI MapID="934" xpos="-53.49" ypos="174.01" zpos="78.59" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="-55.95" ypos="175.00" zpos="84.60" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-59.35" ypos="156.44" zpos="92.64" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- punch-wall shortcut near checkpoint after teleport -->
+    <POI MapID="934" xpos="-53.49" ypos="174.01" zpos="78.59" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="-55.95" ypos="175.00" zpos="84.60" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-36.38" ypos="193.42" zpos="106.36" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" /> <!-- the slower route up top where 3 arrows are -->
-    <POI MapID="934" xpos="-45.31" ypos="193.42" zpos="120.18" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
-    <POI MapID="934" xpos="-37.26" ypos="193.42" zpos="131.83" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-36.38" ypos="193.42" zpos="106.36" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" /> <!-- the slower route up top where 3 arrows are -->
+    <POI MapID="934" xpos="-45.31" ypos="193.42" zpos="120.18" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-37.26" ypos="193.42" zpos="131.83" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-65.14" ypos="236.55" zpos="381.85" type="vs.vs_sab.vs_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
-    <POI MapID="934" xpos="-62.60" ypos="232.94" zpos="379.19" type="vs.vs_sab.vs_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
-    <POI MapID="934" xpos="-70.42" ypos="243.83" zpos="376.56" type="vs.vs_sab.vs_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
-    <POI MapID="934" xpos="-67.94" ypos="240.15" zpos="374.29" type="vs.vs_sab.vs_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
-    <POI MapID="934" xpos="-70.53" ypos="243.83" zpos="366.63" type="vs.vs_sab.vs_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
-    <POI MapID="934" xpos="-70.27" ypos="243.83" zpos="371.40" type="vs.vs_sab.vs_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
-    <POI MapID="934" xpos="-72.81" ypos="247.49" zpos="368.98" type="vs.vs_sab.vs_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
+    <POI MapID="934" xpos="-65.14" ypos="236.55" zpos="381.85" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
+    <POI MapID="934" xpos="-62.60" ypos="232.94" zpos="379.19" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
+    <POI MapID="934" xpos="-70.42" ypos="243.83" zpos="376.56" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
+    <POI MapID="934" xpos="-67.94" ypos="240.15" zpos="374.29" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
+    <POI MapID="934" xpos="-70.53" ypos="243.83" zpos="366.63" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
+    <POI MapID="934" xpos="-70.27" ypos="243.83" zpos="371.40" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
+    <POI MapID="934" xpos="-72.81" ypos="247.49" zpos="368.98" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_bouncy_rock_dot" /> <!-- avoid these as goats toggle them -->
 
 
-    <POI MapID="934" xpos="-49.65" ypos="182.12" zpos="90.05" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="-48.77" ypos="185.35" zpos="104.22" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-49.65" ypos="182.12" zpos="90.05" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="-48.77" ypos="185.35" zpos="104.22" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
-    <POI MapID="934" xpos="-106.67" ypos="258.26" zpos="376.11" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="-124.20" ypos="261.50" zpos="377.13" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+    <POI MapID="934" xpos="-106.67" ypos="258.26" zpos="376.11" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="-124.20" ypos="261.50" zpos="377.13" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
   <!--                             104.22-103.46  ==  .76 (x or z axis of wall)
 
-<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow_ahead" />
-<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_203.vs_203_trib_death_arrow" />
+<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow_ahead" />
+<POI MapID="934" xpos="0" ypos="0" zpos="0" type="vs.vs_sab.vs_trib_deaths_203.vs_203_trib_death_arrow" />
 
   -->
   </POIs>

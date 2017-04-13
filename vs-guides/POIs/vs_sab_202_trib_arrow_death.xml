@@ -1,42 +1,43 @@
 <OverlayData>
 <MarkerCategory name="vs" DisplayName="v's">
   <MarkerCategory name="vs_sab" DisplayName="SAB">
-    <MarkerCategory name="vs_202" DisplayName="202 aka w2z2">
-      <MarkerCategory name="vs_202_trib_death_arrow_ahead" DisplayName="trib arrows that kill warning" alpha=".82" iconSize="0.46" heightOffset="0.7" behavior="0" fadeNear="800" fadeFar="900" iconFile="Data\vs\death_arrow_ahead.png"/>
-      <MarkerCategory name="vs_202_trib_death_arrow" DisplayName="trib arrows that kill" alpha=".82" iconSize="1" heightOffset="0" behavior="0" fadeNear="1500" fadeFar="1700" iconFile="Data\vs\death_arrow.png"/>
-      <MarkerCategory name="vs_202_trib_bouncy_rock_dot" DisplayName="trib bouncy rock Path Dot" iconSize="0.2" heightOffset="0.0" behavior="0" fadeNear="1000" fadeFar="1100" iconFile="Data\vs\vs_bouncy_rock_dot.png"/>
+    <MarkerCategory name="vs_trib_deaths_202" DisplayName="Trib Death Marks 202">
+      <MarkerCategory name="vs_202_trib_death_arrow_ahead" DisplayName="202 death finger warning" alpha=".82" iconSize="0.46" heightOffset="0.7" behavior="0" fadeNear="800" fadeFar="900" iconFile="Data\vs\death_arrow_ahead.png"/>
+      <MarkerCategory name="vs_202_trib_death_arrow" DisplayName="202 death fingers" alpha=".82" iconSize="1" heightOffset="0" behavior="0" fadeNear="1500" fadeFar="1700" iconFile="Data\vs\death_arrow.png"/>
+      <MarkerCategory name="vs_202_trib_bouncy_rock_dot" DisplayName="202 navigate bouncy rocks" iconSize="0.2" heightOffset="0.0" behavior="0" fadeNear="1000" fadeFar="1100" iconFile="Data\vs\vs_bouncy_rock_dot.png"/>
   	  </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
-    <POI MapID="934" xpos="399.86" ypos="265.59" zpos="-209.88" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="383.12" ypos="270.0" zpos="-208.02" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
 
 
-    <POI MapID="934" xpos="291.82" ypos="228.12" zpos="-350.31" type="vs.vs_sab.vs_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
-    <POI MapID="934" xpos="296.02" ypos="229.29" zpos="-350.91" type="vs.vs_sab.vs_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
-    <POI MapID="934" xpos="297.01" ypos="228.90" zpos="-349.97" type="vs.vs_sab.vs_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
-    <POI MapID="934" xpos="295.81" ypos="229.33" zpos="-344.97" type="vs.vs_sab.vs_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
 
-    <POI MapID="934" xpos="293.76" ypos="230.59" zpos="-336.70" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" /> <!-- after first flower and bouncy rock hell -->
-    <POI MapID="934" xpos="280.02" ypos="228.00" zpos="-328.02" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
 
-    <POI MapID="934" xpos="251.59" ypos="237.26" zpos="-300.89" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" />  <!-- first checkpoint -->
-    <POI MapID="934" xpos="254.07" ypos="238.50" zpos="-292.75" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="258.45" ypos="239.39" zpos="-292.66" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" />
-    <POI MapID="934" xpos="262.38" ypos="243.00" zpos="-294.08" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
+    <POI MapID="934" xpos="291.82" ypos="228.12" zpos="-350.31" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
+    <POI MapID="934" xpos="296.02" ypos="229.29" zpos="-350.91" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
+    <POI MapID="934" xpos="297.01" ypos="228.90" zpos="-349.97" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
+    <POI MapID="934" xpos="295.81" ypos="229.33" zpos="-344.97" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_bouncy_rock_dot" /> <!-- bouncy rock hell -->
 
-    <POI MapID="934" xpos="266.50" ypos="260.17" zpos="-72.59" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" /> <!-- above first merchant -->
-    <POI MapID="934" xpos="380.98" ypos="265.77" zpos="-201.70" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
+    <POI MapID="934" xpos="293.76" ypos="230.59" zpos="-336.70" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead" /> <!-- after first flower and bouncy rock hell -->
+    <POI MapID="934" xpos="280.02" ypos="228.00" zpos="-328.02" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow" />
 
-    <POI MapID="934" xpos="236.29" ypos="260.01" zpos="-130.87" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" /> <!-- before dart room -->
-    <POI MapID="934" xpos="232.92" ypos="259.74" zpos="-116.40" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
-    <POI MapID="934" xpos="237.35" ypos="259.74" zpos="-116.52" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
-    <POI MapID="934" xpos="249.41" ypos="259.74" zpos="-117.84" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
+    <POI MapID="934" xpos="251.59" ypos="237.26" zpos="-300.89" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead" />  <!-- first checkpoint -->
+    <POI MapID="934" xpos="254.07" ypos="238.50" zpos="-292.75" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="258.45" ypos="239.39" zpos="-292.66" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead" />
+    <POI MapID="934" xpos="262.38" ypos="243.00" zpos="-294.08" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow" />
+
+    <POI MapID="934" xpos="266.50" ypos="260.17" zpos="-72.59"  type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead_WARN_WTF" />
+    <POI MapID="934" xpos="399.86" ypos="265.59" zpos="-209.88" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead" /> <!-- above first merchant -->
+    <POI MapID="934" xpos="380.98" ypos="265.77" zpos="-201.70" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow" />
+
+    <POI MapID="934" xpos="236.29" ypos="260.01" zpos="-130.87" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead" /> <!-- before dart room -->
+    <POI MapID="934" xpos="232.92" ypos="259.74" zpos="-116.40" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow" />
+    <POI MapID="934" xpos="237.35" ypos="259.74" zpos="-116.52" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow" />
+    <POI MapID="934" xpos="249.41" ypos="259.74" zpos="-117.84" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow" />
 
   <!--
-<POI MapID="934" xpos="0" ypos="0" zpos="-0" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow_ahead" />
-<POI MapID="934" xpos="0" ypos="0" zpos="-0" type="vs.vs_sab.vs_202.vs_202_trib_death_arrow" />
+<POI MapID="934" xpos="0" ypos="0" zpos="-0" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow_ahead" />
+<POI MapID="934" xpos="0" ypos="0" zpos="-0" type="vs.vs_sab.vs_trib_deaths_202.vs_202_trib_death_arrow" />
 
   -->
   </POIs>
