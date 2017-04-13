@@ -12,6 +12,6 @@
 * SAB Tribulation Path's extracted and mirror'd here for convience (2017-04-11)
 * checksums of the file 7z file downloaded:
 > ```
-> 5c95d67f3e48335d10461ccd373f2d4197a17908  SAB_Tribulation_paths.7z
-> a89d6c6dec0feb95d25d809c520135e5  SAB_Tribulation_paths.7z
+> md5:  a89d6c6dec0feb95d25d809c520135e5  SAB_Tribulation_paths.7z
+> sha1: 5c95d67f3e48335d10461ccd373f2d4197a17908  SAB_Tribulation_paths.7z
 >```
