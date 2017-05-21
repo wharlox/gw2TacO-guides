@@ -1,0 +1,23 @@
+<OverlayData>
+  <MarkerCategory name="Collectible">
+    <MarkerCategory name="peoplewatching" DisplayName="Draconis Mons: People Watching">
+        <!--<MarkerCategory name="layline" DisplayName="layline from" iconFile="Data\vs\layline.png" behavior="0" heightOffset="-0.4"/>-->
+        <MarkerCategory name="poi" DisplayName="people watching" iconFile="" behavior="3" heightOffset="0"/>--> <!-- TODO: need an icon, set fades -->
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+
+
+    <!-- http://dulfy.net/2017/05/04/gw2-people-watching-achievement-guide/ -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="-324.76" ypos="433.03" zpos="-483.03" GUID=""/>   <!-- secret golem  -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="-340.13" ypos="461.39" zpos="-96.76" GUID=""/>    <!-- whispers agent  -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="234.25" ypos="485.48" zpos="63.94" GUID=""/>      <!-- dulfy #3 This scanner should overlook the mercenary base -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="-71.01" ypos="255.67" zpos="-587.06" GUID=""/>    <!-- dulfy #4 This scanner should be atop a high tree  -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="-267.75" ypos="496.80" zpos="-244.63" GUID=""/>   <!-- dulfy #5 This scanner should overlook the Inquest camp -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="93.24" ypos="218.79" zpos="-735.25" GUID=""/>     <!-- dulfy #6 This scanner should watch Tennon and Tinderbough  -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="-257.26" ypos="57.90" zpos="-416.00" GUID=""/>    <!-- dulfy #7 This scanner should overlook the mercenary submarine  -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="-136.91" ypos="314.24" zpos="137.66" GUID=""/>    <!-- dulfy #8 This scanner should watch the spiders from a stalactite  -->
+    <POI MapID="1195" type="collectible.peoplewatching.poi" xpos="366.04" ypos="442.00" zpos="22.48" GUID=""/>      <!-- dulfy #9 This scanner should overlook the mercenary leader  -->
+
+  </POIs>
+</OverlayData>

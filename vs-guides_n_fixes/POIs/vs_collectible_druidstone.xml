@@ -1,0 +1,32 @@
+<OverlayData>
+  <MarkerCategory name="Collectible">
+    <MarkerCategory name="druidstone" DisplayName="Draconis Mons: Druidstone">
+      <MarkerCategory name="fertilesoil"  DisplayName="Fertile Soil" iconFile="Data\vs\fertile_soil.png"  behavior="0"  iconSize="1.0"  heightOffset="-0.4" fadeNear="23000" fadeFar="25000" />
+      <MarkerCategory name="Trees"        DisplayName="Druid Trees"  iconFile="Data\vs\druid.png"         behavior="0"  iconSize="2.0"  heightOffset="-0.4" fadeNear="25000" fadeFar="26000" /> <!-- 1675823 -->
+      <MarkerCategory name="layline"      DisplayName="layline from" iconFile="Data\vs\layline.png"       behavior="0"                  heightOffset="-0.4" fadeNear="2500" fadeFar="2600" />
+    </MarkerCategory>
+  </MarkerCategory>
+
+<!-- alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" -->
+  <POIs>
+
+  <POI MapID="1195" type="collectible.DruidStone.FertileSoil" xpos="516.17" ypos="118.86" zpos="-513.39" GUID=""/>    <!-- fertile soil near flax farm (kodama) -->
+
+  <!-- Dierdre's Orchard	Plant 3 Fire Orchid Seeds in the garden of Dierdre's Steps in Mount Maelstrom -->
+  <POI MapID="988"  type="collectible.DruidStone.FertileSoil" xpos="-527.26" ypos="12.35" zpos="-45.25" GUID=""/>     <!-- fertile soil seed #2 (Vine Bridge WP) Maguuma's: in the garden of the oasis in Dry Top -->
+  <POI MapID="62"   type="collectible.DruidStone.FertileSoil" xpos="80.15" ypos="25.20" zpos="366.06" GUID=""/>       <!-- -fertile soil seed #3 (Verdance WP) Melandru's: Cathedral of Verdance in Cursed Shore -->
+  <POI MapID="1195" type="collectible.DruidStone.FertileSoil" xpos="196.60" ypos="4.53" zpos="-43.18" GUID=""/>       <!-- -fertile soil seed #4 (below rock #11) Seaside: one of the islands of the Eastern Boiling Sea in Draconis Mons -->
+  <POI MapID="1195" type="collectible.DruidStone.FertileSoil" xpos="-402.10" ypos="206.41" zpos="-245.13" GUID=""/>   <!-- fertile soil seed #5 (north from Broadleaf) Wind Rider Ledge: overlooking wind rider ledge in Draconis Mons -->
+  <POI MapID="1195" type="collectible.DruidStone.FertileSoil" xpos="-517.45" ypos="457.90" zpos="-358.63" GUID=""/>   <!-- fertile soil seed #6 (near rock #56) Rata Arcanum: bioluminescent cavern above Rata Arcanum in Draconis Mons -->
+  <POI MapID="1195" type="collectible.DruidStone.FertileSoil" xpos="481.20" ypos="109.73" zpos="-253.49" GUID=""/>    <!-- fertile soil seed #7 Seaside Ledges: ledge overlooking the Frothing Pedestal in Draconis Mons -->
+  <POI MapID="1195" type="collectible.DruidStone.FertileSoil" xpos="-407.39" ypos="497.84" zpos="-23.49" GUID=""/>    <!-- fertile soil seed #8 (inside inquest-broken-vault) Nu II: the Nu II Vault in Draconis Mons -->
+  <POI MapID="1195" type="collectible.DruidStone.FertileSoil" xpos="-297.94" ypos="360.13" zpos="-58.76" GUID=""/>    <!-- fertile soil seed #9 (by TM) Ancient Hollow: above the Ancient Hollow in Draconis Mons-->
+
+  <POI MapID="1195" type="collectible.DruidStone.Trees" xpos="573.45" ypos="120.66" zpos="-340.37" GUID=""/>          <!-- trees: kodama -->
+  <POI MapID="1195" type="collectible.DruidStone.layline" xpos="-295.3" ypos="131.34" zpos="-509.88" GUID=""/>          <!-- trees: broadleaf - layline -->
+  <POI MapID="1195" type="collectible.DruidStone.Trees" xpos="-218.75" ypos="295.50" zpos="-707.50" GUID=""/>         <!-- trees: broadleaf -->
+  <POI MapID="1195" type="collectible.DruidStone.Trees" xpos="595.63" ypos="242.67" zpos="-280.57" GUID=""/>          <!-- trees: liriodendron -->
+  <POI MapID="1195" type="collectible.DruidStone.Trees" xpos="-0.61" ypos="309.40" zpos="136.79" GUID=""/>           <!-- trees: rosewood -->
+
+    </POIs>
+  </OverlayData>

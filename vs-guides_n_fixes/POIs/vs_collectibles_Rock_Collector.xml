@@ -1,0 +1,102 @@
+<OverlayData>
+  <MarkerCategory name="Collectible">
+    <MarkerCategory name="rockCollector" DisplayName="Draconis Mons: Rock Collector">
+      <MarkerCategory name="rock_shard" DisplayName="rock shard" iconFile="Data\vs\Draconis_Mons.png" behavior="3"/>
+      <MarkerCategory name="stickyTo"   DisplayName="sticky to" iconFile="Data\vs\stickyto.png" behavior="3"/>
+      <MarkerCategory name="stickyFrom" DisplayName="sticky from" iconFile="Data\vs\stickyfrom.png" behavior="3"/>
+      <!-- iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" baubles -->
+    </MarkerCategory>
+  </MarkerCategory>
+
+  <POIs>
+
+
+
+
+
+    <!-- dulfy helps: http://dulfy.net/2017/05/03/gw2-rock-collector-firestone-shard-achievement-guide/ -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-399.68" ypos="60.55" zpos="-614.66" GUID=""/>   <!-- 1    mariner landing: in a nook high along the western wall -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-330.16" ypos="3.33" zpos="-411.22" GUID=""/>    <!-- 2    mariner landing: in plain view near sub landing -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-265.15" ypos="13.44" zpos="-683.95" GUID=""/>   <!-- 3 M   mariner landing: on the ceiling of a dark tunnel. reef riders stand guard outside. -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="12.21" ypos="70.50" zpos="-744.10" GUID=""/>     <!-- 4    mariner landing: atom a diagonal cliff face. reef riders float nearby. -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-352.55" ypos="24.46" zpos="-578.13" GUID=""/>   <!-- 5    mariner landing: near a thermal tube, south of Sub Landing. -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-487.62" ypos="76.76" zpos="-271.36" GUID=""/>   <!-- 6    Western Boiling Sea: On the underside of Wind Rider Ledge -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-242.17" ypos="0.58" zpos="-266.30" GUID=""/>    <!-- 7    Western Boiling Sea: On the side of the foot of Wind Rider Ledge -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-163.37" ypos="35.55" zpos="-47.44" GUID=""/>    <!-- 8    Western Boiling Sea: Just Below the Mastery Insight -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-460.70" ypos="11.52" zpos="124.27" GUID=""/>    <!-- 9    Western Boiling Sea: Along a ledge northwest of Seething Pillar -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-306.24" ypos="8.18" zpos="-14.77" GUID=""/>     <!-- 10   Western Boiling Sea: On a stop outcropping east of Seething Pillar -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="198.22" ypos="50.36" zpos="-47.42" GUID=""/>     <!-- 11   Eastern Boiling Sea: On an island northwest of Frothing Pedestal -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="385.97" ypos="90.00" zpos="179.99" GUID=""/>     <!-- 12 M  Eastern Boiling Sea: On the ceiling of a cave along the northern wall -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="420.54" ypos="213.00" zpos="-838.07" GUID=""/>    <!-- +13 M  sticky to here -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="404.92" ypos="212.06" zpos="-808.33" GUID=""/>   <!-- 13 M  Savage Rise: In a cave behind the Rolling Devil nest -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="607.41" ypos="252.01" zpos="-258.86" GUID=""/>    <!-- 14 M  stand here -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyFrom" xpos="608.59" ypos="308.20" zpos="-245.12" GUID=""/>  <!-- 14 M  sticky to here -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="606.99" ypos="301.13" zpos="-246.25" GUID=""/>    <!-- 14 M  stand here (go down)-->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="606.89" ypos="309.50" zpos="-251.35" GUID=""/>   <!-- 14 M  Savage Rise: At the source of waterfall at Peace Grounds -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-27.81" ypos="162.02" zpos="-641.67" GUID=""/>   <!-- 15   Savage Rise: Undernearth an outcropping north of Scout’s Clearing -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-210.95" ypos="106.62" zpos="-742.83" GUID=""/>  <!-- 16   Savage Rise: At the entrance to a ramp that leads to Scout’s Clearing -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="291.35" ypos="193.74" zpos="-452.16" GUID=""/>   <!-- 17   Savage Rise: Near the base of a massive rocky pillar, southwest of the Peace Grounds -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyFrom" xpos="268.20" ypos="387.84" zpos="-331.30" GUID=""/>  <!-- 18 M   fall here -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="306.93" ypos="350.83" zpos="-312.00" GUID=""/>    <!-- 18 M   sticky to here -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="330.82" ypos="352.12" zpos="-338.77" GUID=""/>   <!-- 18 M  Savage Rise: A cave in the ceiling below Heathen’s Hold waypoint -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="274.00" ypos="188.90" zpos="-540.00" GUID=""/>   <!-- 19   Savage Rise: In a cranny with the bristleback’s nest -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-212.89" ypos="360.44" zpos="-363.17" GUID=""/>  <!-- 20   Wind Rider Ledge: In a ceiling cave below Rata Arcanum -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="-367.56" ypos="346.78" zpos="-439.68" GUID=""/>   <!-- 21 M   sticky to here -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-461.07" ypos="369.00" zpos="-403.51" GUID=""/>  <!-- 21 M  Wind Rider Ledge: Near the ceiling along the western wall -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="-469.63" ypos="371.70" zpos="-269.39" GUID=""/>  <!-- 22 M   sticky to here -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="-489.55" ypos="410.97" zpos="-277.55" GUID=""/>  <!-- 22 M   sticky to here -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-464.55" ypos="394.36" zpos="-263.33" GUID=""/>  <!-- 22 M  Wind Rider Ledge: On the northern side, in a ceiling crevasse -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-575.55" ypos="259.06" zpos="-83.53" GUID=""/>   <!-- 23 M  Wind Rider Ledge: High along the wall, southwest of Seething Pillar -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-380.75" ypos="169.36" zpos="-476.45" GUID=""/>  <!-- 24 M  Wind Rider Ledge: Embedded high in a large palm tree -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-584.56" ypos="213.59" zpos="-224.27" GUID=""/>  <!-- 25 M  Wind Rider Ledge: In a cranny above the northern tip of the ledge -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-124.24" ypos="238.00" zpos="79.39" GUID=""/>    <!-- 26   Ancient Hollow: Deep in a shallow cave southeast of the golem graveyard -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="93.36" ypos="229.78" zpos="259.48" GUID=""/>     <!-- 27   Ancient Hollow: in a nook in a wall, north of a mushroom village -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="105.26" ypos="230.15" zpos="12.29" GUID=""/>     <!-- 28   Ancient Hollow: Along a path that runs northeast toward a mushroom village -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-170.85" ypos="247.38" zpos="-54.18" GUID=""/>   <!-- 29   Ancient Hollow: Towards the western edge of the land mass. Fireflies make their home nearby -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="89.57" ypos="467.54" zpos="-323.03" GUID=""/>    <!-- 30   Titan’s Throat: Underneath and to the east of the gate of fire -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="56.63" ypos="480.59" zpos="-278.33" GUID=""/>    <!-- 31   Titan’s Throat: On the northeastern side, just below the gate of fire-->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="92.83" ypos="444.83" zpos="-298.21" GUID=""/>    <!-- 32   Titan’s Throat: On the northeastern side, a little lower below the gate of fire -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="191.89" ypos="415.07" zpos="-193.91" GUID=""/>   <!-- 33   Heathen’s Hold: Below the lava river, on the west side -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="440.87" ypos="548.54" zpos="-94.55" GUID=""/>    <!-- 34 M  Heathen’s Hold: High above Prisoner’s Perch, near a Mastery Insight -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="169.12" ypos="654.43" zpos="68.70" GUID=""/>     <!-- 35 M  Heathen’s Hold: Atop a plateau above Iota Vault -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="286.36" ypos="409.30" zpos="36.10" GUID=""/>     <!-- 36   Heathen’s Hold: In a mercenary’s bucket -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-16.30" ypos="500.93" zpos="226.63" GUID=""/>    <!-- 37 M  Heathen’s Hold: Within a crevasse in Iota Vault -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="239.95" ypos="577.90" zpos="139.59" GUID=""/>    <!-- 38 M  Heathen’s Hold: Above the entrance to Iota Vault -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="64.26" ypos="654.01" zpos="145.11" GUID=""/>     <!-- 39 M  Heathen’s Hold: In the rocks on the wall north of Iota Vault -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="176.30" ypos="420.09" zpos="-36.35" GUID=""/>    <!-- 40   Heathen’s Hold: Under the grating -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="230.10" ypos="452.73" zpos="-187.32" GUID=""/>   <!-- 41   Heathen’s Hold: beneath a massive defense turret, on the east shore of the lava river -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="14.48" ypos="624.07" zpos="93.56" GUID=""/>      <!-- 42 M  Scalding Gorge: On a ledge high above, north of Sandstone Archway -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-212.98" ypos="625.16" zpos="97.59" GUID=""/>    <!-- 43 M  Scalding Gorge: On a ledge high above, west by northwest of Sandstone Archway -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-163.70" ypos="591.29" zpos="177.45" GUID=""/>   <!-- 44 M  Scalding Gorge: On a ledge high above, northwest of Sandstone Archway -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="61.96" ypos="431.75" zpos="-126.23" GUID=""/>    <!-- 45   Scalding Gorge: Atop a tall stone outcropping, southeast of Sandstone Archway -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="42.56" ypos="387.67" zpos="-27.03" GUID=""/>     <!-- 46   Scalding Gorge: Hidden below Sandstone Archway, on the eastern side -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-54.70" ypos="456.42" zpos="-37.50" GUID=""/>    <!-- 47   Scalding Gorge: On the underside of Sandstone Archway -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-122.25" ypos="497.68" zpos="241.94" GUID=""/>   <!-- 48 M  Scalding Gorge: In a silt in the rocks looking north from atop the northwestern arch -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-382.01" ypos="529.96" zpos="8.07" GUID=""/>     <!-- 49 M  Rata Arcanum: In a high nook, east of Seething Pillar -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-186.08" ypos="417.52" zpos="-253.10" GUID=""/>  <!-- 50   Rata Arcanum: Undernearth a large firestone spire -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-329.70" ypos="462.24" zpos="-381.65" GUID=""/>  <!-- 51   Rata Arcanum: In the upper area, atop a small spire -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-448.65" ypos="449.51" zpos="-287.21" GUID=""/>  <!-- 52   Rata Arcanum: In a nook behind the inquest’s captive druid -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-418.94" ypos="469.38" zpos="-376.55" GUID=""/>  <!-- 53   Rata Arcanum: Overlooking the inquest’s portal -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyFrom" xpos="-431.68" ypos="494.66" zpos="-85.77" GUID=""/>  <!-- 54 M  stand here -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="-434.47" ypos="540.41" zpos="-88.29" GUID=""/>    <!-- 54 M  aim here -->
+    <POI MapID="1195" type="collectible.rockCollector.stickyTo" xpos="-447.85" ypos="573.00" zpos="-82.57" GUID=""/>    <!-- 54 M  aim here -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-496.44" ypos="559.72" zpos="-46.97" GUID=""/>   <!-- 54 M  Rata Arcanum: A crack in the ceiling in the caves behind Rata Arcanum -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-366.33" ypos="448.68" zpos="-191.30" GUID=""/>  <!-- 55   Rata Arcanum: On a rock wall, just outside the entrance to the Inquest Field Lab -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-546.54" ypos="472.75" zpos="-321.92" GUID=""/>  <!-- 56   Rata Arcanum: In a nook near some soil in the caves behind Rata Arcanum -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-161.96" ypos="401.32" zpos="-643.87" GUID=""/>  <!-- 57 M  Golemancer’s Tomb: In a cave outside the tomb, high above Scout’s Clearing -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-140.31" ypos="446.75" zpos="-734.18" GUID=""/>  <!-- 58 M  Golemancer’s Tomb: Embedded in a wall outside the tomb, high above Scout’s Clearing -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-226.79" ypos="293.98" zpos="-681.92" GUID=""/>  <!-- 59   Golemancer’s Tomb: At the tip of a long, thin outcropping outside the southern entrance to the tomb -->
+    <POI MapID="1195" type="collectible.rockCollector.rock_shard" xpos="-239.21" ypos="437.90" zpos="-626.28" GUID=""/>  <!-- 60 M  Golemancer’s Tomb:In the crack in the ceiling, in the room across from the champion devourer. Bring an Oakheart’s essence -->
+
+
+
+
+  </POIs>
+</OverlayData>
+
+
+<!--
+
+
+
+-->

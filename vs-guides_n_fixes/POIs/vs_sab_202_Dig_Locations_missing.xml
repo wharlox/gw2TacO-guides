@@ -1,0 +1,22 @@
+<OverlayData>
+  <MarkerCategory name="Festivals">
+    <MarkerCategory name="SAB">
+      <MarkerCategory name="DigLocations">
+  	   <MarkerCategory name="DigLocations vs-tekkit addons 202" iconFile="Data\Chest.png" behavior="2"/>
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+
+  <POIs>
+  <!-- https://wiki.guildwars2.com/wiki/Pain_Cliffs#Digging_spots -->
+
+  <POI MapID="934" xpos="287.17" ypos="259.85" zpos="-212.81" type="Festivals.SAB.DigLocations" /> <!-- (50) dulfy #3 -->
+
+  <POI MapID="934" xpos="336.49" ypos="271.99" zpos="212.42" type="Festivals.SAB.DigLocations" /> <!-- (20) dulfy #6 -->
+
+
+  <!--                             104.22-103.46  ==  .76 (x or z axis of wall)
+
+  -->
+  </POIs>
+</OverlayData>

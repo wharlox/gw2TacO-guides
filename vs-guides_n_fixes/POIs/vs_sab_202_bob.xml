@@ -32,8 +32,8 @@
     <POI MapID="934" xpos="255.85" ypos="284.58" zpos="-163.83" type="vs.vs_sab.vs_baubles.vs_bauble_202" />
     <POI MapID="934" xpos="264.10" ypos="284.58" zpos="-144.01" type="vs.vs_sab.vs_baubles.vs_bauble_202" />
     <POI MapID="934" xpos="255.82" ypos="284.58" zpos="-124.58" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!--        end top of first bell -->
-    <POI MapID="934" xpos="277.21" ypos="301.72" zpos="-207.59" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 25-26: top of push-assassin -->
-    <POI MapID="934" xpos="313.82" ypos="301.72" zpos="-207.57" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!--        end top of push-assassin -->
+    <POI MapID="934" xpos="277.21" ypos="301.72" zpos="-207.59" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 25-26: roof of push-assassin -->
+    <POI MapID="934" xpos="313.82" ypos="301.72" zpos="-207.57" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!--        end roof of push-assassin -->
     <POI MapID="934" xpos="331.91" ypos="284.73" zpos="-100.40" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 27-28: 2nd chest -->
     <POI MapID="934" xpos="331.91" ypos="284.73" zpos="-101.13" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!--        end 2nd chest -->
     <POI MapID="934" xpos="460.09" ypos="282.43" zpos="-64.00"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 29:    toad room -->
@@ -41,9 +41,9 @@
     <POI MapID="934" xpos="460.10" ypos="296.64" zpos="-57.57"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!--        end top toad room -->
     <POI MapID="934" xpos="463.07" ypos="288.56" zpos="-118.80" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 32:    behind gong/cat room base-level -->
     <POI MapID="934" xpos="490.28" ypos="289.37" zpos="-50.45"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 33:    3rd chest - double secret -->
-    <POI MapID="934" xpos="466.85" ypos="293.08" zpos="-35.19"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 34:    roof before toad room -->
-    <POI MapID="934" xpos="623.70" ypos="190.35" zpos="-124.00" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 35:    racoon hidden flute room -->
-    <POI MapID="934" xpos="410.55" ypos="280.20" zpos="114.05"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 36:    portal maze (Left, Right, Right, Forward, Forward -->
+    <POI MapID="934" xpos="466.85" ypos="293.08" zpos="-35.19"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- +34:    roof before toad room -->
+    <POI MapID="934" xpos="623.70" ypos="190.35" zpos="-124.00" type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- +35:    racoon hidden flute room -->
+    <POI MapID="934" xpos="410.55" ypos="280.20" zpos="114.05"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- +36:    portal maze (Left, Right, Right, Forward, Forward -->
     <POI MapID="934" xpos="314.36" ypos="312.80" zpos="182.14"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />  <!-- 37-41:    after eagle shortcut -->
     <POI MapID="934" xpos="322.18" ypos="312.80" zpos="162.90"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />
     <POI MapID="934" xpos="341.37" ypos="312.80" zpos="154.57"  type="vs.vs_sab.vs_baubles.vs_bauble_202" />
