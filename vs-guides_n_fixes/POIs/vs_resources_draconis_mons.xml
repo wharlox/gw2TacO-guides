@@ -1,0 +1,227 @@
+<OverlayData>
+  <!--<MarkerCategory name="vs" DisplayName="v's">-->
+    <MarkerCategory name="ResourceNode" DisplayName="Resource Nodes">
+      <MarkerCategory name="draconis_mons" DisplayName="Draconis Mons">
+        <MarkerCategory name="orchid" DisplayName="orchid" iconFile="Data\vs\dm_orchid.png" behavior="3"/>
+        <MarkerCategory name="flax" DisplayName="flax farm" iconFile="Data\vs\flax.png" behavior="3"/>
+        <MarkerCategory name="orichalcum" DisplayName="orichalcum" iconFile="Data/Ore.png" behavior="3"/>
+        <MarkerCategory name="ancient" DisplayName="ancient sapling" iconFile="Data/Wood.png" behavior="3"/>
+    <!-- iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" baubles -->
+      </MarkerCategory>
+    </MarkerCategory>
+  <!--</MarkerCategory>-->
+
+  <POIs>
+
+    <POI MapID="1195" type="ResourceNode.draconis_mons.flax" xpos="545.93" ypos="107.13" zpos="-465.46" GUID=""/>    <!-- flax farm -->
+
+    <!-- POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="-194.12" ypos="463.32" zpos="-152.10" GUID=""/>    <!- - orichalcum x or y axis is wrong -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="-126.84" ypos="445.29" zpos="-609.99" GUID=""/>    <!-- orichalcum -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="487.62" ypos="114.50" zpos="-519.31" GUID=""/>     <!-- orichalcum by flax farm-->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="509.58" ypos="113.27" zpos="-303.73" GUID=""/>     <!-- orichalcum by flax farm-->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="-268.53" ypos="498.62" zpos="-431.00" GUID=""/>       <!-- ancient -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="-396.61" ypos="479.61" zpos="-311.19" GUID=""/>       <!-- ancient -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="65.01" ypos="310.72" zpos="-150.54" GUID=""/>         <!-- ancient -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="-217.98" ypos="493.22" zpos="-32.04" GUID=""/>        <!-- ancient -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="-72.69" ypos="311.80" zpos="-69.27" GUID=""/>         <!-- ancient -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="-480.30" ypos="251.70" zpos="-254.32" GUID=""/>       <!-- ancient -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="543.28" ypos="450.49" zpos="-200.41" GUID=""/>        <!-- ancient -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="595.58" ypos="130.84" zpos="-408.32" GUID=""/>       <!-- ancient bedween flax farm and kodama -->
+
+    <!-- orchid locations  on top of non chopped height -2.35  -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-285.50" ypos="132.16" zpos="-433.65" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-317.76" ypos="100.87" zpos="-355.83" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-308.00" ypos="455.57" zpos="-427.52" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="203.96" ypos="243.91" zpos="-846.19" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-197.15" ypos="399.99" zpos="-561.13" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-464.00" ypos="451.94" zpos="-325.88" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-275.69" ypos="443.62" zpos="-304.28" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="382.43" ypos="421.64" zpos="-144.27" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-141.29" ypos="399.34" zpos="-448.71" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-423.60" ypos="432.53" zpos="-602.50" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-192.21" ypos="282.01" zpos="-737.62" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-168.92" ypos="276.34" zpos="-763.97" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="254.85" ypos="377.12" zpos="-403.95" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-270.50" ypos="117.13" zpos="-543.97" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-134.27" ypos="410.04" zpos="-379.16" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-376.62" ypos="445.72" zpos="-432.49" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="228.03" ypos="167.82" zpos="-414.46" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="18.09" ypos="397.54" zpos="-484.33" GUID=""/>
+
+    <!-- no math done (standing on top) -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="234.56" ypos="379.18" zpos="-459.07" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-198.05" ypos="437.58" zpos="-198.48" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-371.45" ypos="122.43" zpos="-372.69" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-480.61" ypos="7.74" zpos="-57.17" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-182.43" ypos="151.99" zpos="-678.36" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-54.24" ypos="172.07" zpos="-784.56" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-183.67" ypos="115.23" zpos="-695.91" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-3.26" ypos="167.52" zpos="-623.68" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-381.46" ypos="236.81" zpos="-490.40" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-276.82" ypos="495.75" zpos="-140.83" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-81.88" ypos="238.71" zpos="-153.81" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-182.60" ypos="239.96" zpos="-129.37" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-53.02" ypos="300.11" zpos="-26.77" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-140.39" ypos="293.35" zpos="156.25" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-63.02" ypos="420.18" zpos="-226.65" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="409.54" ypos="437.89" zpos="-149.77" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="319.38" ypos="463.45" zpos="42.65" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="319.00" ypos="446.46" zpos="-18.54" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-218.37" ypos="493.77" zpos="-29.69" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-82.80" ypos="367.68" zpos="-9.08" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-43.68" ypos="412.15" zpos="140.97" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="47.46" ypos="365.01" zpos="-135.32" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-360.78" ypos="432.93" zpos="-303.88" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-268.50" ypos="432.48" zpos="-391.70" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-419.12" ypos="445.57" zpos="-518.07" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-365.89" ypos="404.86" zpos="-726.61" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="231.78" ypos="286.65" zpos="-889.30" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="275.21" ypos="264.98" zpos="-810.15" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="235.64" ypos="194.43" zpos="-545.89" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="352.24" ypos="223.86" zpos="-472.25" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="411.87" ypos="190.04" zpos="-213.13" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="465.51" ypos="194.34" zpos="-196.85" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="84.47" ypos="256.89" zpos="93.91" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-358.84" ypos="135.55" zpos="-393.35" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="352.57" ypos="271.55" zpos="-615.70" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="432.66" ypos="288.46" zpos="-670.79" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="278.03" ypos="418.74" zpos="-268.56" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="310.58" ypos="419.57" zpos="-289.31" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-347.87" ypos="424.30" zpos="-675.71" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-188.98" ypos="395.01" zpos="-668.56" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-89.67" ypos="414.95" zpos="-97.50" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="214.98" ypos="197.26" zpos="-756.06" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-127.03" ypos="356.80" zpos="-918.14" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="56.42" ypos="384.31" zpos="161.42" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-21.77" ypos="267.53" zpos="179.84" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-192.26" ypos="283.54" zpos="94.33" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-101.27" ypos="305.20" zpos="1.71" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="28.37" ypos="307.70" zpos="-143.40" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-407.24" ypos="120.77" zpos="-356.57" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-416.38" ypos="134.63" zpos="-489.69" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-346.94" ypos="143.01" zpos="-597.01" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-34.64" ypos="185.03" zpos="-535.86" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-31.30" ypos="184.98" zpos="-535.84" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-164.87" ypos="184.71" zpos="-411.84" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-180.52" ypos="187.56" zpos="-352.75" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="44.66" ypos="185.79" zpos="-735.69" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="203.64" ypos="256.57" zpos="-719.37" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="358.03" ypos="378.22" zpos="-504.70" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="454.44" ypos="305.82" zpos="-469.60" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="246.98" ypos="393.13" zpos="-319.05" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="306.81" ypos="434.70" zpos="-192.18" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-130.46" ypos="25.71" zpos="-723.05" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-137.51" ypos="166.53" zpos="-756.60" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-125.41" ypos="182.08" zpos="-709.01" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="381.20" ypos="236.77" zpos="-490.37" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="544.53" ypos="240.35" zpos="-476.21" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-171.63" ypos="276.14" zpos="228.10" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-252.94" ypos="283.05" zpos="130.64" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-225.46" ypos="279.76" zpos="-13.04" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-332.35" ypos="474.33" zpos="-116.28" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-255.17" ypos="426.58" zpos="-348.62" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-307.40" ypos="439.99" zpos="-363.06" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-482.41" ypos="101.66" zpos="-244.48" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="182.24" ypos="231.74" zpos="-798.69" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="265.45" ypos="247.28" zpos="-837.66" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="541.56" ypos="305.63" zpos="-177.23" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="184.60" ypos="403.60" zpos="-433.81" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-101.74" ypos="360.56" zpos="-115.06" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-226.72" ypos="298.36" zpos="-686.90" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-160.77" ypos="396.43" zpos="-597.41" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-303.34" ypos="407.38" zpos="-597.61" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-349.07" ypos="67.04" zpos="-660.48" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="64.14" ypos="189.81" zpos="-631.77" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-66.85" ypos="184.49" zpos="-562.32" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="66.60" ypos="234.90" zpos="159.53" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-56.39" ypos="298.06" zpos="115.23" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-236.23" ypos="107.82" zpos="-516.68" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-360.00" ypos="124.61" zpos="-440.24" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="34.47" ypos="294.16" zpos="-818.91" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="308.15" ypos="309.07" zpos="-872.93" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="498.63" ypos="247.06" zpos="-643.08" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="541.50" ypos="245.43" zpos="-731.30" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="333.55" ypos="203.79" zpos="-362.55" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="449.21" ypos="437.46" zpos="-200.87" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="528.65" ypos="450.71" zpos="-93.68" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-31.50" ypos="158.03" zpos="-535.71" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-130.09" ypos="170.32" zpos="-538.24" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="274.24" ypos="251.30" zpos="-616.30" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="436.04" ypos="426.24" zpos="-262.36" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="5.19" ypos="362.99" zpos="-89.95" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-70.34" ypos="422.82" zpos="63.56" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-132.14" ypos="426.66" zpos="-204.09" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-384.12" ypos="134.76" zpos="-639.65" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-31.80" ypos="291.11" zpos="-786.48" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="100.36" ypos="289.60" zpos="-855.80" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-89.79" ypos="316.98" zpos="-918.14" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-471.21" ypos="475.17" zpos="-390.31" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-325.47" ypos="442.76" zpos="-348.90" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-370.03" ypos="457.67" zpos="-367.47" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-426.66" ypos="457.51" zpos="-347.49" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-364.91" ypos="427.82" zpos="-573.72" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-332.93" ypos="435.07" zpos="-522.24" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-343.90" ypos="396.81" zpos="-633.70" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="133.22" ypos="294.46" zpos="-856.86" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="165.79" ypos="295.72" zpos="-883.03" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="379.42" ypos="451.16" zpos="-81.18" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="318.58" ypos="442.76" zpos="57.46" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-167.62" ypos="250.72" zpos="90.56" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="64.92" ypos="433.57" zpos="-126.35" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="107.40" ypos="168.78" zpos="-577.35" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-540.10" ypos="99.65" zpos="-185.45" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-451.56" ypos="165.37" zpos="-477.60" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-438.49" ypos="155.38" zpos="-498.41" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="261.20" ypos="15.92" zpos="-184.57" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="235.27" ypos="4.65" zpos="-127.95" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="198.98" ypos="398.07" zpos="-348.00" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-254.19" ypos="65.28" zpos="-628.94" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="511.46" ypos="237.51" zpos="-504.49" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-109.89" ypos="281.82" zpos="237.59" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-394.35" ypos="442.77" zpos="-250.22" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-238.71" ypos="446.80" zpos="-341.31" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-182.37" ypos="390.87" zpos="-366.66" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-302.50" ypos="419.92" zpos="-549.49" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-301.28" ypos="420.89" zpos="-511.77" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-248.59" ypos="414.94" zpos="-536.18" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="264.07" ypos="272.39" zpos="-855.97" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-350.85" ypos="38.33" zpos="140.06" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-251.50" ypos="125.28" zpos="-462.49" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-77.81" ypos="190.40" zpos="-812.23" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="42.71" ypos="389.76" zpos="-77.54" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-152.24" ypos="170.94" zpos="-613.38" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-8.38" ypos="254.25" zpos="-55.97" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-332.23" ypos="411.40" zpos="-684.79" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-264.15" ypos="392.37" zpos="-847.30" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-179.58" ypos="372.67" zpos="-860.24" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-207.34" ypos="22.50" zpos="-538.02" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-368.35" ypos="35.32" zpos="-601.05" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-253.83" ypos="393.30" zpos="-747.95" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-296.80" ypos="397.77" zpos="-665.54" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="465.72" ypos="252.11" zpos="-308.81" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="382.57" ypos="8.64" zpos="-47.35" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="435.82" ypos="9.68" zpos="-119.52" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="389.63" ypos="132.93" zpos="34.79" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="515.52" ypos="131.05" zpos="-56.68" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-315.61" ypos="133.34" zpos="-488.67" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="147.98" ypos="406.67" zpos="71.43" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-346.81" ypos="442.88" zpos="-452.60" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-384.21" ypos="176.88" zpos="-428.22" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="39.26" ypos="412.06" zpos="244.53" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="282.30" ypos="424.37" zpos="101.48" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-441.52" ypos="9.41" zpos="121.60" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-448.59" ypos="463.65" zpos="-358.43f" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-346.71" ypos="449.66" zpos="-396.86" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-358.34" ypos="432.80" zpos="-533.12" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="12.38" ypos="244.23" zpos="-761.69" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="35.93" ypos="236.29" zpos="-102.81" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-197.32" ypos="11.79" zpos="-653.75" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="455.71" ypos="388.01" zpos="-507.34" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-204.95" ypos="370.81" zpos="-771.06" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-85.22" ypos="394.08" zpos="-525.13" GUID=""/>
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-390.73" ypos="430.38" zpos="-579.13" GUID=""/>
+
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="0" ypos="0" zpos="0" GUID=""/>
+
+    </POIs>
+  </OverlayData>

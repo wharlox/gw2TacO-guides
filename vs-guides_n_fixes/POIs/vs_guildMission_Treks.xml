@@ -1,0 +1,12 @@
+<OverlayData>
+  <MarkerCategory name="Tactical">
+    <MarkerCategory name="guildmission" DisplayName="guild missions">
+      <MarkerCategory name="trek"  DisplayName="trek" iconFile="Data\vs\guild_trek.png"  behavior="0"  /> <!-- iconSize="1.0"  heightOffset="-0.4" fadeNear="0" fadeFar="3600"-->
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+
+    <POI MapID="65" type="tactical.guildmission.trek" xpos="-999.31" ypos="-69.37" zpos="-20.47" GUID=""/> <!-- Captain's Berth  Lights Waypoint [&BLICAAA=] -->
+
+  </POIs>
+</OverlayData>

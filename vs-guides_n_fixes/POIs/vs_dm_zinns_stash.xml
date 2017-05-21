@@ -1,0 +1,19 @@
+<OverlayData>
+  <MarkerCategory name="vs" DisplayName="v's">
+    <MarkerCategory name="draconis_mons" DisplayName="Draconis Mons">
+      <MarkerCategory name="ZinnStash" DisplayName="Zinn's Stash">
+        <MarkerCategory name="stash" DisplayName="" iconFile="Data\.png" behavior="3"/>
+        <!-- iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" baubles -->
+      </MarkerCategory>
+    </MarkerCategory>
+  </MarkerCategory>
+
+  <POIs>
+    <POI MapID="1195" type="vs.draconis_mons.ZinnStash.stash" xpos="371.91" ypos="438.38" zpos="-87.41" GUID=""/>
+    <POI MapID="1195" type="vs.draconis_mons.ZinnStash.stash" xpos="339.28" ypos="136.65" zpos="-322.82" GUID=""/>
+    <POI MapID="1195" type="vs.draconis_mons.ZinnStash.stash" xpos="71.13" ypos="309.36" zpos="-87.61" GUID=""/>
+    <POI MapID="1195" type="vs.draconis_mons.ZinnStash.stash" xpos="315.55" ypos="440.22" zpos="44.05" GUID=""/>
+    <POI MapID="1195" type="vs.draconis_mons.ZinnStash.stash" xpos="0" ypos="0" zpos="0" GUID=""/>
+
+  </POIs>
+</OverlayData>

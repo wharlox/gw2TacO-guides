@@ -1,0 +1,28 @@
+<OverlayData>
+  <MarkerCategory name="Collectible">
+    <MarkerCategory name="lessonslearned" DisplayName="Draconis Mons: Lessons Learned">
+      <MarkerCategory name="recording"  DisplayName="zinns recording" iconFile="Data\vs\Draconis_Mons.png" behavior="3"/>
+      <MarkerCategory name="stickyTo"   DisplayName="sticky to here" iconFile="Data\vs\sticky_to.png" behavior="3"/>
+      <MarkerCategory name="stickyFrom" DisplayName="sticky from" iconFile="Data\vs\stickyfrom.png" behavior="3"/>
+    <!-- iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" baubles -->
+    </MarkerCategory>
+  </MarkerCategory>
+
+  <POIs>
+
+  <!-- dulfy http://dulfy.net/2017/05/04/gw2-lessons-learned-flashpoint-achievement-guide/ -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="318.15" ypos="417.73" zpos="60.38" GUID=""/>      <!-- Recover Zinn’s first recording 01 -->
+  <POI MapID="1195" type="collectible.lessonslearned.stickyTo" xpos="-240.93" ypos="414.22" zpos="-430.59" GUID=""/>      <!-- #02 sticky to -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="-244.43" ypos="412.94" zpos="-430.17" GUID=""/>   <!-- Recover Zinn’s second recording 02 -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="-374.93" ypos="436.21" zpos="-436.58" GUID=""/>   <!--+ Recover Zinn’s third recording 03 -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="354.72" ypos="429.98" zpos="13.77" GUID=""/>      <!--+ Recover Zinn’s fourth recording 04 -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="310.43" ypos="431.67" zpos="-2.39" GUID=""/>      <!--+ Recover Zinn’s fifth recording 05 -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="17.58" ypos="327.66" zpos="-1013.03" GUID=""/>    <!-- Recover Zinn’s sixth recording 06 -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="135.85" ypos="276.97" zpos="252.51" GUID=""/>     <!--+ Recover Zinn’s seventh recording 07 -->
+  <POI MapID="1195" type="collectible.lessonslearned.stickyTo" xpos="-241.52" ypos="511.71" zpos="74.03" GUID=""/>        <!-- #8 sticky to -->
+  <POI MapID="1195" type="collectible.lessonslearned.stickyTo" xpos="-293.55" ypos="495.01" zpos="45.45" GUID=""/>        <!-- #8 glide / sticky to here -->
+  <POI MapID="1195" type="collectible.lessonslearned.stickyTo" xpos="-352.81" ypos="510.00" zpos="41.17" GUID=""/>        <!-- #8 sticky to -->
+  <POI MapID="1195" type="collectible.lessonslearned.recording" xpos="-360.46" ypos="506.29" zpos="49.09" GUID=""/>     <!-- Recover Zinn’s eighth recording 08 -->
+
+  </POIs>
+</OverlayData>
