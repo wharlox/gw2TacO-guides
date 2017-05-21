@@ -6,7 +6,38 @@
   </MarkerCategory>
   <POIs>
 
+    <POI MapID="0" type="tactical.guildmission.trek" xpos="767.32" ypos="103.82" zpos="-112.07" GUID=""/> <!-- Skyshine Scratch -->
+    <POI MapID="0" type="tactical.guildmission.trek" xpos="-642.83" ypos="299.54" zpos="-263.90" GUID=""/> <!-- Kaldar's Hot Seat  Eastern Watchpost Waypoint [&BI0DAAA=] -->
+    <POI MapID="0" type="tactical.guildmission.trek" xpos="-177.02" ypos="0.12" zpos="501.72" GUID=""/> <!-- Isenfell Wash  Isenfall Waypoint [&BLgAAAA=] -->
+    <POI MapID="20" type="tactical.guildmission.trek" xpos="560.36" ypos="46.46" zpos="1162.68" GUID=""/> <!-- Forgotten Grotto  Terra Carorunda Waypoint [&BAECAAA=] -->
+    <POI MapID="20" type="tactical.guildmission.trek" xpos="-785.30" ypos="0.94" zpos="-576.81" GUID=""/> <!-- Lawen Grotto  Terra Carorunda Waypoint [&BAECAAA=] -->
+    <POI MapID="22" type="tactical.guildmission.trek" xpos="362.90" ypos="59.60" zpos="-603.52" GUID=""/> <!-- Orecart Hoist -->
+    <POI MapID="24" type="tactical.guildmission.trek" xpos="-1097.85" ypos="31.35" zpos="-130.76" GUID=""/> <!-- Stonebore Spiderhole  Talajian Waypoint [&BIwBAAA=] -->
+    <POI MapID="26" type="tactical.guildmission.trek" xpos="328.39" ypos="72.62" zpos="-749.54" GUID=""/> <!-- Foreman's Recess  Dociu Waypoint [&BFgCAAA=] -->
+    <POI MapID="25" type="tactical.guildmission.trek" xpos="-562.40" ypos="68.94" zpos="-280.47" GUID=""/> <!-- Scourgejaw Watchtower -->
+    <POI MapID="30" type="tactical.guildmission.trek" xpos="-782.98" ypos="49.38" zpos="-610.12" GUID=""/> <!-- The People's Deadlock -->
+    <POI MapID="30" type="tactical.guildmission.trek" xpos="-106.77" ypos="0.17" zpos="-591.53" GUID=""/> <!-- Source of Lament -->
+    <POI MapID="32" type="tactical.guildmission.trek" xpos="-1064.66" ypos="68.90" zpos="-618.94" GUID=""/> <!-- Anya's Patch -->
+    <POI MapID="34" type="tactical.guildmission.trek" xpos="575.15" ypos="18.85" zpos="-384.09" GUID=""/> <!-- Briarthorn Barrier -->
+    <POI MapID="51" type="tactical.guildmission.trek" xpos="195.18" ypos="24.39" zpos="-310.25" GUID=""/> <!-- Vizier's Anteport -->
+    <POI MapID="53" type="tactical.guildmission.trek" xpos="31.49" ypos="1.53" zpos="-82.12" GUID=""/> <!-- Usharr's Threshold  Toade's Head Waypoint [&BMsBAAA=] -->
+    <POI MapID="54" type="tactical.guildmission.trek" xpos="-144.37" ypos="21.47" zpos="-209.39" GUID=""/> <!-- Ulta Scraproom  Ulta Metamagicals Waypoint [&BGUAAAA=] -->
+    <POI MapID="54" type="tactical.guildmission.trek" xpos="222.39" ypos="30.75" zpos="601.16" GUID=""/> <!-- Frozen Antrum  - cave entrance -->
+    <POI MapID="54" type="tactical.guildmission.trek" xpos="181.70" ypos="7.52" zpos="738.54" GUID=""/> <!-- Frozen Antrum -->
+    <POI MapID="54" type="tactical.guildmission.trek" xpos="524.44" ypos="17.07" zpos="119.59" GUID=""/> <!-- East End Falls -->
     <POI MapID="65" type="tactical.guildmission.trek" xpos="-999.31" ypos="-69.37" zpos="-20.47" GUID=""/> <!-- Captain's Berth  Lights Waypoint [&BLICAAA=] -->
+    <POI MapID="873" type="tactical.guildmission.trek" xpos="441.48" ypos="52.13" zpos="-7.83" GUID=""/> <!-- Sandwurm Prowl  Pearl Islet Waypoint [&BNUGAAA=]-->
+    <POI MapID="873" type="tactical.guildmission.trek" xpos="-19.08" ypos="0.91" zpos="278.10" GUID=""/> <!-- Steamy Steps -->
+
+
+ <!--  -->
+<!--
+<POI MapID="0" type="tactical.guildmission.trek" xpos="0" ypos="0" zpos="0" GUID=""/>
+<POI MapID="0" type="tactical.guildmission.trek" xpos="0" ypos="0" zpos="0" GUID=""/>
+<POI MapID="0" type="tactical.guildmission.trek" xpos="0" ypos="0" zpos="0" GUID=""/>
+<POI MapID="0" type="tactical.guildmission.trek" xpos="0" ypos="0" zpos="0" GUID=""/>
+<POI MapID="0" type="tactical.guildmission.trek" xpos="0" ypos="0" zpos="0" GUID=""/>
+-->
 
   </POIs>
 </OverlayData>
