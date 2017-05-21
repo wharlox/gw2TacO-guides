@@ -17,6 +17,7 @@
 
     <!-- POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="-194.12" ypos="463.32" zpos="-152.10" GUID=""/>    <!- - orichalcum x or y axis is wrong -->
     <POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="-126.84" ypos="445.29" zpos="-609.99" GUID=""/>    <!-- orichalcum -->
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="-163.20" ypos="387.39" zpos="-652.08" GUID=""/>    <!-- orichalcum -->
     <POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="487.62" ypos="114.50" zpos="-519.31" GUID=""/>     <!-- orichalcum by flax farm-->
     <POI MapID="1195" type="ResourceNode.draconis_mons.orichalcum" xpos="509.58" ypos="113.27" zpos="-303.73" GUID=""/>     <!-- orichalcum by flax farm-->
     <POI MapID="1195" type="ResourceNode.draconis_mons.ancient" xpos="-268.53" ypos="498.62" zpos="-431.00" GUID=""/>       <!-- ancient -->
@@ -220,7 +221,7 @@
     <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-204.95" ypos="370.81" zpos="-771.06" GUID=""/>
     <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-85.22" ypos="394.08" zpos="-525.13" GUID=""/>
     <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-390.73" ypos="430.38" zpos="-579.13" GUID=""/>
-
+    <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="-355.01" ypos="436.87" zpos="-428.87" GUID=""/>
     <POI MapID="1195" type="ResourceNode.draconis_mons.orchid" xpos="0" ypos="0" zpos="0" GUID=""/>
 
     </POIs>
