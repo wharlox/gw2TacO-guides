@@ -17,3 +17,8 @@
 > md5:  a89d6c6dec0feb95d25d809c520135e5  SAB_Tribulation_paths.7z
 > sha1: 5c95d67f3e48335d10461ccd373f2d4197a17908  SAB_Tribulation_paths.7z
 >```
+
+
+#### _unpacked_gw2taco
+* from the official site, unpacked and unchanged for git-change-history (starting at 027)
+* current unpacked version: 027 from 2017-04-02
