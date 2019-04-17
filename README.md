@@ -20,5 +20,5 @@
 
 
 #### _unpacked_gw2taco
-* from the official site, unpacked and unchanged for git-change-history (starting at 027)
-* current unpacked version: 027 from 2017-04-02
+* from the official site, unpacked and unchanged for git-change-history
+* current unpacked version: 034.1866r 2018-07-08

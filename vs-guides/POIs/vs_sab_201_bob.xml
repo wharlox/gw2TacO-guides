@@ -2,15 +2,18 @@
 <MarkerCategory name="vs" DisplayName="v's">
   <MarkerCategory name="vs_sab" DisplayName="SAB">
     <MarkerCategory name="vs_baubles" DisplayName="bauble marks">
-      <MarkerCategory name="vs_bauble_201" DisplayName="201 Associate of Baubles (incomplete)" alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" iconFile="Data\vs\Bauble.png"/>
+      <MarkerCategory name="vs_bauble_201" DisplayName="201 Associate of Baubles (incomplete)" alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="4" resetLength="600" fadeNear="2500" fadeFar="2600" iconFile="Data\vs\Bauble.png"/> <!-- want behavior="1" but not implemented  http://www.gw2taco.com/2016/01/how-to-create-your-own-marker-pack.html  -->
   	  </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>
   <POIs>
 
+    <POI MapID="934" xpos="-539.15" ypos="200.73" zpos="-432.16" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- inside bottom waterfall with after waterspout jp -->
     <POI MapID="934" xpos="-556.75" ypos="201.07" zpos="-390.73" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- inside cliffside waterfall -->
     <POI MapID="934" xpos="-550.38" ypos="216.39" zpos="-408.43" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- above cliffside waterfall in rapids -->
-    <POI MapID="934" xpos="-585.08" ypos="219.24" zpos="-398.71" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- near first furnature coin on bridge -->
+    <POI MapID="934" xpos="-585.08" ypos="219.24" zpos="-398.71" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- near first furnature coin before bridge -->
+    <POI MapID="934" xpos="-605.05" ypos="219.18" zpos="-376.48" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- after first bridge from first furnature coin -->
+    <POI MapID="934" xpos="-639.85" ypos="212.68" zpos="-410.92" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- between bridges before checkpoint before crocks -->
 
     <POI MapID="934" xpos="-636.56" ypos="220.00" zpos="-465.29" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- before checkpoint of long assassin bridge -->
 
@@ -28,6 +31,8 @@
 
     <POI MapID="934" xpos="-237.19" ypos="227.28" zpos="-337.32" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- before 2nd furnature guys -->
 
+    <POI MapID="934" xpos="-241.49" ypos="199.57" zpos="-306.36" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- at start of log-river (bomb wall to right) -->
+
     <POI MapID="934" xpos="-252.96" ypos="208.05" zpos="-222.85" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze -->
     <POI MapID="934" xpos="-238.15" ypos="208.05" zpos="-211.50" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze -->
     <POI MapID="934" xpos="-219.13" ypos="208.05" zpos="-182.67" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- racoon maze -->
@@ -42,13 +47,19 @@
 
     <POI MapID="934" xpos="-157.22" ypos="195.47" zpos="-217.14" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- off the alligator waterfall -->
     <POI MapID="934" xpos="-227.86" ypos="234.50" zpos="-260.47" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- in front of house overlooking alligator waterfall -->
-    <POI MapID="934" xpos="-185.06" ypos="186.62" zpos="-210.88" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon -->
-    <POI MapID="934" xpos="-223.32" ypos="185.24" zpos="-257.54" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon -->
-    <POI MapID="934" xpos="-237.46" ypos="184.55" zpos="-237.00" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon -->
+    <POI MapID="934" xpos="-185.06" ypos="186.62" zpos="-210.88" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon - before crossing log-river -->
+    <POI MapID="934" xpos="-223.32" ypos="185.24" zpos="-257.54" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon - before crossing log-river -->
+    <POI MapID="934" xpos="-237.46" ypos="184.55" zpos="-237.00" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- frog dungeon - before crossing log-river -->
+
+
+    <POI MapID="934" xpos="-138.34" ypos="277.36" zpos="-392.38" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- before final waterfall - up high below top-portal -->
+    <POI MapID="934" xpos="-85.11"  ypos="248.59" zpos="-349.88" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- chest in final waterfall - above final checkpoint -->
+
 
     <POI MapID="934" xpos="-157.36" ypos="210.99" zpos="-325.77" type="vs.vs_sab.vs_baubles.vs_bauble_201" />
 
     <POI MapID="934" xpos="-108.70" ypos="227.92" zpos="-314.49" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- flower above final checkpoint -->
+    <POI MapID="934" xpos="-155.42" ypos="223.07" zpos="-352.30" type="vs.vs_sab.vs_baubles.vs_bauble_201" /> <!-- 2nd flower past final checkpoint -->
     <!--
 <POI MapID="934" xpos="-0" ypos="0" zpos="-0" type="vs.vs_sab.vs_baubles.vs_bauble_201" />
 
