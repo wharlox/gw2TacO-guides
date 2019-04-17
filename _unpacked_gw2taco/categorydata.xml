@@ -101,7 +101,7 @@
       <MarkerCategory name="VerdantBrink" DisplayName="Verdant Brink" iconFile="data/airshippart.png"/>
       <MarkerCategory name="AuricBasin" DisplayName="Auric Basin"/>
       <MarkerCategory name="TangledDepths" DisplayName="Tangled Depths" iconFile="data/leylinecrystal.png"/>
-      <MarkerCategory name="DragonsStand" DisplayName="Dragon's Stand" iconFile="Data\crystallineore.png"/>
+      <MarkerCategory name="DragonsStand" DisplayName="Dragon's Stand" iconFile="Data\crystallineore.png" behavior="6"/>
     </MarkerCategory>
     <MarkerCategory name="Permanent"/>
   </MarkerCategory>
@@ -124,6 +124,15 @@
       <MarkerCategory name="Counter_4" DisplayName="Counter - 4" iconFile="Data/four.png"/>
       <MarkerCategory name="StackPoint" DisplayName="Stack Point" iconFile="Data/stack.png" iconSize="0.5"/>
       <MarkerCategory name="SpawnPoint" DisplayName="Spawn Point" iconFile="Data/spawn.png" iconSize="0.5"/>
+    </MarkerCategory>
+    <MarkerCategory name="WvW" minSize="16" maxSize="32">
+      <MarkerCategory name="Camp" DisplayName="Camp" iconFile="Data/camp.png"/>      
+      <MarkerCategory name="Tower" DisplayName="Tower" iconFile="Data/tower.png"/>      
+      <MarkerCategory name="Keep" DisplayName="Keep" iconFile="Data/keep.png"/>      
+      <MarkerCategory name="Ruins" DisplayName="Ruins" iconFile="Data/ruins.png"/>      
+      <MarkerCategory name="Generic" DisplayName="Generic" iconFile="Data/generic.png"/>
+      <MarkerCategory name="Resource" DisplayName="Resource" iconFile="Data/resource.png"/>
+      <MarkerCategory name="Castle" DisplayName="Castle" iconFile="Data/castle.png"/>
     </MarkerCategory>
     <MarkerCategory name="GuildMission" DisplayName="Guild Missions">
       <MarkerCategory name="Bounty" iconFile="Data/Bounty.png" triggerRange="15.0"/>      

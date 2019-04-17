@@ -84,4 +84,6 @@
 		<phase enterspherex="-77.0612" enterspherey="512.354" enterspherez="-80.4387" entersphererad="30" >
 		</phase>
 	</areatriggeredtimer>
+	<areatriggeredtimer mapid="1188" enterspherex="364.78" enterspherey="33.60" enterspherez="51.19" entersphererad="34.91" exitspherex="364.78" exitspherey="33.60" exitspherez="51.19" exitsphererad="37" length="600" startdelay="4">
+	</areatriggeredtimer>
 </timers>

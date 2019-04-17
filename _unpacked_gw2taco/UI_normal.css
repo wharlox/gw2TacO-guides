@@ -1,6 +1,6 @@
 *
 {
-	font:menomnia_text_normal;
+	font:trebuchet_normal;
 }
 
 GW2TacO 
@@ -8,7 +8,7 @@ GW2TacO
 	width:100%;
 	height:100%;
 	opacity:1.0f;
-	font:menomonia_small;
+	font:menomonia_normal;
 }
 
 #tactical
@@ -17,7 +17,16 @@ GW2TacO
 	height:100%;
 	background:#ff0000;
 	opacity:1.0f;
-	font:menomonia_small;
+	font:menomonia_normal;
+}
+
+#trail
+{
+	width:100%;
+	height:100%;
+	background:#ff0000;
+	opacity:1.0f;
+	font:menomonia_normal;
 }
 
 #compass
@@ -26,7 +35,7 @@ GW2TacO
 	height:100%;
 	background:#ff0000;
 	opacity:1.0f;
-	font:menomonia_small;
+	font:menomonia_normal;
 }
 
 #ranges
@@ -42,7 +51,7 @@ GW2TacO
 	width:100%;
 	height:100%;
 	opacity:1.0f;
-	font:menomonia_small;
+	font:menomonia_normal;
 }
 
 #gw2dialog
@@ -87,25 +96,45 @@ maptimer
 
 #MenuButton
 {
-	width:26px;
-	height:26px;
-	left:292px;
-	top:1px;
+	width:32px;
+	height:32px;
+	left:288px;
+	top:0px;
 	opacity:0.5;
 	background-color:none;
-	background: skin(MenuIcon) center middle;
+	background: skin(taco_normal_dark) top left;
 }
 
 #MenuButton:hover
 {
-	background: skin(MenuIconHover) center middle;
+	background: skin(taco_normal_light) top left;
 	opacity:1.0;
 }
 
 #MenuButton:active
 {
-	background: skin(MenuIconPush) center middle;
+	background: skin(taco_normal_light) top left;
 	opacity:1.0;
+}
+
+#RedCircle
+{
+	width:36px;
+	height:36px;
+	left:166px;
+	top:7px;
+	opacity:1.0;
+	background-color:none;
+	background: skin(shine) top left;
+}
+
+#TPButton
+{
+	width:32px;
+	height:32px;
+	left:160px;
+	top:0px;
+	background-color:none;
 }
 
 window
@@ -277,4 +306,28 @@ notepad textbox:selection:active
 notepad textbox:selection:hover
 {
 	background:rgba(192,192,192,1);
+}
+
+#APIkeyInput
+{
+	background:rgba(0,0,0,0.7);
+	padding:1px;
+	border:1px;
+	width:540px;
+	height:19px;
+	top:50%+20px;
+}
+
+#MenuHoverBox
+{
+	left:0px;
+	top:0px;
+	width:320px;
+	height:32px;
+	background-color:none;
+}
+
+#startnewsection
+{
+	visibility:hidden;
 }
