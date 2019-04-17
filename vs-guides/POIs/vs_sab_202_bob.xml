@@ -2,7 +2,7 @@
 <MarkerCategory name="vs" DisplayName="v's">
   <MarkerCategory name="vs_sab" DisplayName="SAB">
     <MarkerCategory name="vs_baubles" DisplayName="bauble marks">
-      <MarkerCategory name="vs_bauble_202" DisplayName="202 Bachelor of Baubles" alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" iconFile="Data\vs\Bauble.png"/>
+      <MarkerCategory name="vs_bauble_202" DisplayName="202 Bachelor of Baubles" alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="4" resetLength="600" fadeNear="2500" fadeFar="2600" iconFile="Data\vs\Bauble.png"/>
   	  </MarkerCategory>
     </MarkerCategory>
   </MarkerCategory>

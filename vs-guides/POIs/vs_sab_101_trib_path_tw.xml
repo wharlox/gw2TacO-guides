@@ -1,0 +1,28 @@
+<OverlayData>
+<MarkerCategory name="vs" DisplayName="v's">
+  <MarkerCategory name="vs_sab" DisplayName="SAB">
+    <MarkerCategory name="vs_path_tekkit_101" DisplayName="Trib Mode W1 Z1 Tekkit+" iconSize="0.2" heightOffset="0.0" behavior="0" fadeNear="1000" fadeFar="1100" iconFile="Data\tw_sab_dot.png"/>
+        <!-- alpha=".9" iconSize="0.46" heightOffset="-0.3" behavior="0" fadeNear="2500" fadeFar="2600" iconFile="Data\vs\Bauble.png"/> -->
+    </MarkerCategory>
+  </MarkerCategory>
+  <POIs>
+
+    <POI MapID="895" xpos="-401.54" ypos="55.03" zpos="471.91" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+    <POI MapID="895" xpos="-399.91" ypos="55.03" zpos="469.41" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+    <POI MapID="895" xpos="-395.58" ypos="55.03" zpos="463.10" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+
+    <POI MapID="895" xpos="-393.34" ypos="54.87" zpos="459.98" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+    <POI MapID="895" xpos="-391.29" ypos="54.84" zpos="457.10" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+    <POI MapID="895" xpos="-391.26" ypos="54.58" zpos="454.54" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods before mid-spikes -->
+    <POI MapID="895" xpos="-391.31" ypos="54.33" zpos="449.89" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods after  mid-spikes -->
+    <POI MapID="895" xpos="-390.52" ypos="54.33" zpos="447.07" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+    <POI MapID="895" xpos="-389.10" ypos="54.33" zpos="443.46" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+    <POI MapID="895" xpos="-387.73" ypos="54.37" zpos="439.83" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+    <POI MapID="895" xpos="-386.24" ypos="54.37" zpos="435.92" type="vs.vs_sab.vs_path_tekkit_101" /> <!-- checkpoint before checkpoint-after woods -->
+
+    <!--
+<POI MapID="895" xpos="-0" ypos="0" zpos="-0" type="vs.vs_sab.vs_path_tekkit_101" />
+
+    -->
+    </POIs>
+  </OverlayData>
