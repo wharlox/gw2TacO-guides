@@ -1,6 +1,6 @@
 *
 {
-	font:menomnia_text_larger;
+	font:trebuchet_larger;
 }
 
 GW2TacO 
@@ -12,6 +12,15 @@ GW2TacO
 }
 
 #tactical
+{
+	width:100%;
+	height:100%;
+	background:#ff0000;
+	opacity:1.0f;
+	font:menomonia_larger;
+}
+
+#trail
 {
 	width:100%;
 	height:100%;
@@ -87,25 +96,45 @@ maptimer
 
 #MenuButton
 {
-	width:32px;
-	height:32px;
-	left:359px;
-	top:1px;
+	width:39px;
+	height:39px;
+	left:352px;
+	top:0px;
 	opacity:0.5;
 	background-color:none;
-	background: skin(MenuIcon) center middle;
+	background: skin(taco_larger_dark) top left;
 }
 
 #MenuButton:hover
 {
-	background: skin(MenuIconHover) center middle;
+	background: skin(taco_larger_light) top left;
 	opacity:1.0;
 }
 
 #MenuButton:active
 {
-	background: skin(MenuIconPush) center middle;
+	background: skin(taco_larger_light) top left;
 	opacity:1.0;
+}
+
+#RedCircle
+{
+	width:44px;
+	height:44px;
+	left:203px;
+	top:8px;
+	opacity:1.0;
+	background-color:none;
+	background: skin(shine) top left;
+}
+
+#TPButton
+{
+	width:39px;
+	height:39px;
+	left:196px;
+	top:0px;
+	background-color:none;
 }
 
 window
@@ -277,4 +306,28 @@ notepad textbox:selection:active
 notepad textbox:selection:hover
 {
 	background:rgba(192,192,192,1);
+}
+
+#APIkeyInput
+{
+	background:rgba(0,0,0,0.7);
+	padding:1px;
+	border:1px;
+	width:600px;
+	height:22px;
+	top:50%+20px;
+}
+
+#MenuHoverBox
+{
+	left:0px;
+	top:0px;
+	width:391px;
+	height:39px;
+	background-color:none;
+}
+
+#startnewsection
+{
+	visibility:hidden;
 }

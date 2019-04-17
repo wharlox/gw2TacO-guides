@@ -51,7 +51,7 @@
       <MarkerCategory name="RuinsOfOrr" DisplayName="Ruins of Orr">
         <MarkerCategory name="AntreOfAdjournment" DisplayName="Antre of Adjournment" triggerRange="3"/>
         <MarkerCategory name="BuriedArchives" DisplayName="Buried Archives"/>
-        <MarkerCategory name="ScavengersChasm" DisplayName="Scavenger's Chasm" behavior="4" resetLength="30"/>
+        <MarkerCategory name="ScavengersChasm" DisplayName="Scavenger's Chasm" behavior="7" resetLength="30"/>
         <MarkerCategory name="TheViziersTower" DisplayName="The Vizier's Tower" triggerRange="3"/>
       </MarkerCategory>
       <MarkerCategory name="ShiverpeakMountains" DisplayName="Shiverpeak Mountains">
